@@ -1,0 +1,348 @@
+Load libraries
+```{r}
+library(tidyverse)
+```
+
+Function to get the library IDs, sample IDs, and read pair based on the name of the file so they can be joined with the mapping file
+```{r}
+library_formatter <- function(df){
+  df %>%
+    filter(str_detect(Library, "WU")) %>% 
+    mutate(SampleID = str_extract(Library, "WUB[-_]\\w\\w\\d\\d"),
+           SampleID = str_replace(SampleID, "-", "_"),
+           ReadPair = str_extract(Library,"_R(1|2)"),
+           ReadPair = str_extract(ReadPair, "R(1|2)")) %>%
+    #inner_join(map, by = "SampleID") %>% 
+    mutate(Type = fct_relevel(Type, "wub_raw1", "wub_raw2", "wub_raw3", "wub_raw4", "wub_cat_rmphix"),
+           Type2 = case_when(str_detect(Type, "raw") ~ "raw",
+                             str_detect(Type, "rmphix") ~ "rmphix"),
+           Profile = case_when(str_detect(SampleID, "TM") ~ "TotalMG",
+                               str_detect(SampleID, "V[DN]") ~ "Virome"))
+}
+```
+
+Read and reformat files 
+```{r}
+#map <- read.table("../Data/map.tsv", header = T, sep = "\t")
+
+adapter.cnt <- readRDS("../Data/fastqc/compiled/wub_adapter_ctnt.RDS") %>% library_formatter()
+basic.stats <- readRDS("../Data/fastqc/compiled/wub_basic_stats.RDS") %>% library_formatter() 
+overrep.seq <- readRDS("../Data/fastqc/compiled/wub_overrep_seqs.RDS") %>% library_formatter() 
+p.base.n.ct <- readRDS("../Data/fastqc/compiled/wub_per_base_n_ctnt.RDS") %>% library_formatter() 
+p.base.seq.ct <- readRDS("../Data/fastqc/compiled/wub_per_base_seq_ctnt.RDS") %>% library_formatter() 
+p.base.seq.q <- readRDS("../Data/fastqc/compiled/wub_per_base_seq_qual.RDS") %>% library_formatter() 
+p.seq.gc.ct <- readRDS("../Data/fastqc/compiled/wub_per_seq_gc_ctnt.RDS") %>% library_formatter() 
+p.seq.q.scr <- readRDS("../Data/fastqc/compiled/wub_per_seq_qual_scrs.RDS") %>% library_formatter() 
+seq.dup <- readRDS("../Data/fastqc/compiled/wub_seq_dup_lvls.RDS") %>% library_formatter() 
+seq.len.dist <- readRDS("../Data/fastqc/compiled/wub_seq_len_dstr.RDS") %>% library_formatter() 
+
+#saveRDS(basic.stats, "../../Analysis/Data/seq_stats.RDS")
+```
+
+
+Notice that some libraries didn't actually get sequenced for certain batches, yet raw files were generated and processed by the pipeline. Those rmphix files have none or only a few reads. The filter command gets rid of them.
+```{r}
+seqdepth <- basic.stats %>% 
+  filter(Total_Sequences > 1000) %>%
+  group_by(SampleID, Type2) %>% 
+  summarise(SeqDepth = sum(Total_Sequences)) %>% 
+  ungroup() %>% 
+  spread(key = Type2, value = SeqDepth)
+
+write.table(seqdepth, "../Data/seqdepth.tsv", sep = "\t", quote = F, row.names = F)
+```
+
+Adapter count
+```{r}
+adapter.cnt %>%
+  separate(Position, c("Position", "tmp")) %>%
+  mutate(Position = as.numeric(Position)) %>%
+  gather(key = "Adapter", value = "pReads", Illumina_Universal_Adapter:SOLID_Small_RNA_Adapter) %>%
+  mutate(Adapter = str_replace_all(Adapter, "_", "\n")) %>%
+  group_by(SampleID, Library, Type2, Type, Position, Adapter, ReadPair, Profile) %>%
+  summarise(MeanpReads = mean(pReads)) %>%
+  ggplot(aes(Position, MeanpReads)) +
+  geom_line(aes(group = paste(Library, Adapter), color = Adapter)) +
+  scale_color_brewer(palette = "Set2") +
+  ylab("Percent Reads") +
+  facet_grid(ReadPair ~ Profile + Type2 + Type, scales = "free") +
+  theme_minimal()
+
+adapter.cnt %>%
+  separate(Position, c("Position", "tmp")) %>%
+  mutate(Position = as.numeric(Position)) %>%
+  gather(key = "Adapter", value = "pReads", Illumina_Universal_Adapter:SOLID_Small_RNA_Adapter) %>%
+  mutate(Adapter = str_replace_all(Adapter, "_", "\n")) %>%
+  group_by(SampleID, Library, Type2, Type, Position, Adapter, ReadPair, Profile) %>%
+  summarise(MeanpReads = mean(pReads)) %>%
+  filter(MeanpReads > 5) %>% 
+  group_by(SampleID) %>% 
+  count()
+```
+
+```{r}
+basic.stats %>% 
+  group_by(SampleID, ReadPair, Type2, Profile) %>% 
+  summarise(TotalReads = sum(Total_Sequences)) %>% 
+  ggplot(aes(Profile, TotalReads)) +
+  ylim(0,36000000) +
+  geom_boxplot(aes(fill = Type2)) +
+  geom_hline(yintercept = c(35000000)) +
+  ylab("Number of paired reads") +
+  scale_y_continuous(labels = scales::unit_format(unit = "M", scale = 1e-6 ,accuracy = 1))
+
+basic.stats %>% 
+  group_by(SampleID, ReadPair, Type2, Profile) %>% 
+  summarise(TotalReads = sum(Total_Sequences)) %>% 
+  arrange(TotalReads)
+```
+
+
+Basic stats 
+Number sequences / Percent sequences
+```{r}
+basic.stats
+
+basic.stats %>% 
+  filter(Type2 == "raw") %>% 
+  mutate(SampleType = ifelse(Profile == "TotalMG", "TotalMG", "Virome")) %>% 
+  group_by(SampleType) %>% 
+  summarise(Median = median(Total_Sequences),
+            Mean = mean(Total_Sequences),
+            Min = min(Total_Sequences),
+            Max = max(Total_Sequences))
+
+basic.stats %>% 
+  filter(Type2 == "raw") %>% 
+  mutate(SampleType = ifelse(Profile == "TotalMG", "TotalMG", "Virome")) %>% 
+  ggplot(aes(SampleType, Total_Sequences)) +
+  ylim(0,36000000) +
+  geom_boxplot() +
+  geom_hline(yintercept = c(35000000)) +
+  ylab("Number of paired reads") +
+  scale_y_continuous(labels = scales::unit_format(unit = "M", scale = 1e-6 ,accuracy = 1))
+
+basic.stats %>% 
+  filter(Type == "raw") %>% 
+  mutate(SampleType = ifelse(Profile == "TotalMG", "TotalMG", "Virome")) %>% 
+  ggplot(aes(Profile, Total_Sequences)) +
+  ylim(0,36000000) +
+  geom_boxplot() +
+  geom_hline(yintercept = c(35000000))
+
+basic.stats %>% 
+  filter(str_detect(Type, "raw")) %>% 
+  ggplot(aes(Replicate, Total_Sequences, fill = Type)) +
+  geom_bar(stat = "identity", position = "stack") + 
+  geom_hline(yintercept = c(35000000)) +
+  facet_grid(Profile + ReadPair ~ Soil + Time + Status, scales = "free_x") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+
+basic.stats %>% 
+  filter(str_detect(Type, "trimmed")) %>% 
+  ggplot(aes(Replicate, Total_Sequences, fill = Type)) +
+  geom_bar(stat = "identity", position = "stack") + 
+  geom_hline(yintercept = c(35000000)) +
+  facet_grid(Profile + ReadPair ~ Soil + Time + Status, scales = "free_x") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+
+basic.stats %>% 
+  filter(str_detect(Type, "rmphix")) %>% 
+  ggplot(aes(Replicate, Total_Sequences, fill = Type)) +
+  geom_bar(stat = "identity", position = "stack") + 
+  geom_hline(yintercept = c(35000000)) +
+  facet_grid(Profile + ReadPair ~ Soil + Time + Status, scales = "free_x") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+
+basic.stats %>% 
+  filter(str_detect(Type, "raw")) %>% 
+  filter(ReadPair == "R1") %>% 
+  ggplot(aes(SampleID, Total_Sequences, fill = Type)) +
+  geom_bar(stat = "identity", position = "stack") + 
+  geom_hline(yintercept = c(35000000, 70000000)) +
+  scale_fill_brewer(palette = "Set1") +
+  facet_grid(. ~ Profile, scales = "free_x") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+```
+
+```{r}
+basic.stats %>% 
+  arrange(Total_Sequences)
+
+basic.stats %>% 
+  filter(Type2 == "rmphix") %>% 
+  filter(Total_Sequences > 1000) %>% 
+  group_by(SampleID) %>% 
+  count() 
+
+basic.stats %>% 
+  filter(Type2 == "rmphix") %>% 
+  filter(Profile != "TotalMG") %>% 
+  filter(ReadPair == "R1") %>% 
+  filter(Total_Sequences > 1000) %>% 
+  group_by(SampleID) %>% 
+  summarise(Pipeline = paste(Type, collapse = "-")) %>% 
+  group_by(Pipeline) %>%
+  count
+
+combinations <- basic.stats %>% 
+  filter(Type2 == "rmphix") %>% 
+  filter(Profile != "TotalMG") %>% 
+  filter(ReadPair == "R1") %>% 
+  filter(Total_Sequences > 1000) %>% 
+  group_by(SampleID) %>% 
+  summarise(Pipeline = paste(Type, collapse = "-")) %>% 
+  ungroup()
+
+vir.1.2 <- filter(combinations, Pipeline == "rmphix-rmphix2") %>% select(SampleID) %>% write.table("../Data/virIDs12.txt",col.names = F, row.names = F, sep = "\t", quote = F)
+vir.1.2.3 <- filter(combinations, Pipeline == "rmphix-rmphix2-rmphix3") %>% select(SampleID) %>% write.table("../Data/virIDs123.txt",col.names = F, row.names = F, sep = "\t", quote = F)
+vir.1.2.3.4 <- filter(combinations, Pipeline == "rmphix-rmphix2-rmphix3-rmphix4") %>% select(SampleID) %>% write.table("../Data/virIDs1234.txt",col.names = F, row.names = F, sep = "\t", quote = F)
+vir.1.2.4 <- filter(combinations, Pipeline == "rmphix-rmphix2-rmphix4") %>% select(SampleID) %>% write.table("../Data/virIDs124.txt",col.names = F, row.names = F, sep = "\t", quote = F)
+vir.1.3 <- filter(combinations, Pipeline == "rmphix-rmphix3") %>% select(SampleID) %>% write.table("../Data/virIDs13.txt",col.names = F, row.names = F, sep = "\t", quote = F)
+vir.1.4 <- filter(combinations, Pipeline == "rmphix-rmphix4") %>% select(SampleID) %>% write.table("../Data/virIDs14.txt",col.names = F, row.names = F, sep = "\t", quote = F)
+```
+
+
+```{r}
+basic.stats %>% 
+  filter(Type %in% c("raw", "raw2", "raw3", "raw4")) %>%
+  group_by(Profile, SampleID) %>% 
+  summarise(Sum = sum(Total_Sequences)) %>% 
+  #filter(Profile != "TotalMG") %>% 
+  mutate(Good = Sum > 70000000) %>% 
+  group_by(Profile, Good) %>% 
+  count()
+
+basic.stats %>% 
+  filter(Type %in% c("raw", "raw2", "raw3", "raw4")) %>%
+  group_by(Profile, SampleID) %>% 
+  summarise(Sum = sum(Total_Sequences)) %>% 
+  arrange(Profile, Sum)
+
+basic.stats %>% 
+  filter(Type %in% c("raw", "raw2", "raw3", "raw4")) %>%
+  group_by(Profile, SampleID) %>% 
+  summarise(Sum = sum(Total_Sequences)) %>% 
+  arrange(Profile, Sum) %>% 
+  mutate(Yield = Sum/70000000)
+
+basic.stats %>% 
+  group_by(Profile, Type2, SampleID) %>% 
+  summarise(Sum = sum(Total_Sequences)) %>% 
+  ungroup() %>% 
+  spread(key = "Type2", value = "Sum") %>% 
+  mutate(PercentRetained = rmphix/raw)
+```
+
+```{r}
+x <- basic.stats %>% 
+  filter(Type %in% c("raw", "raw2")) %>%
+  mutate(Type = fct_recode(Type, 
+                           "Batch1" = "raw",
+                           "Batch2" = "raw2",
+                           "Batch3" = "raw3")) %>% 
+  group_by(Profile, SampleID, Type) %>% 
+  summarise(Sum = sum(Total_Sequences)) %>% 
+  ggplot(aes(SampleID, Sum, fill = Type)) +
+  geom_bar(stat = "identity") +
+  geom_hline(yintercept = c(70000000)) +
+  geom_hline(yintercept = c(140000000)) +
+  scale_fill_manual(values = RColorBrewer::brewer.pal(3, "Set1")) +
+  scale_y_continuous(labels = scales::unit_format(unit = "M", scale = 1e-6 ,accuracy = 1)) +
+  ylab("Number of reads") +
+  ggtitle("Sequencing depth after second batch") +
+  facet_grid(. ~ Profile, scales = "free", space = "free") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+y <- basic.stats %>% 
+  filter(Type %in% c("raw", "raw2", "raw3")) %>%
+  mutate(Type = fct_recode(Type, 
+                           "Batch1" = "raw",
+                           "Batch2" = "raw2",
+                           "Batch3" = "raw3")) %>% 
+  group_by(Profile, SampleID, Type) %>% 
+  summarise(Sum = sum(Total_Sequences)) %>% 
+  ggplot(aes(SampleID, Sum, fill = Type)) +
+  geom_bar(stat = "identity") +
+  geom_hline(yintercept = c(70000000)) +
+  geom_hline(yintercept = c(140000000)) +
+  scale_fill_manual(values = RColorBrewer::brewer.pal(3, "Set1")) +
+  scale_y_continuous(labels = scales::unit_format(unit = "M", scale = 1e-6 ,accuracy = 1)) +
+  ylab("Number of reads") +
+  ggtitle("Sequencing depth after third batch") +
+  facet_grid(. ~ Profile, scales = "free", space = "free") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+cowplot::plot_grid(x, y, ncol = 1)
+```
+
+```{r}
+basic.stats %>% 
+  filter(Type %in% c("raw", "raw2")) %>%
+  group_by(Type) %>% 
+  summarise(Run = sum(Total_Sequences)) %>% 
+  ggplot(aes(Type, Run, fill = Type)) +
+  geom_bar(stat = "identity") +
+  geom_hline(yintercept = c(5000000000)) +
+  geom_hline(yintercept = c(4000000000)) 
+```
+
+
+```{r}
+basic.stats %>% 
+  ggplot(aes(SampleID, GC, fill = Type)) +
+  geom_bar(stat = "identity", position = "dodge") + 
+  facet_grid(ReadPair ~ Type + Timepoint, scales = "free") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+```
+
+
+```{r}
+overrep.seq %>%
+  group_by(Sequence) %>%
+  mutate(Count = n()) %>%
+  arrange(-Count)
+```
+
+Per base N count
+```{r}
+p.base.n.ct %>% 
+  separate(Base, c("Base", "tmp")) %>% 
+  mutate(Base = as.numeric(Base)) %>% 
+  ggplot(aes(Base, N_Count, color = WaterTreatment)) +
+  geom_line(aes(group = SampleID), alpha = 0.8,size = 1) +
+  facet_grid(.~ Type + Timepoint + ReadPair, scales = "free") +
+  theme_minimal() 
+```
+
+Per base sequence count
+```{r}
+p.base.seq.ct %>% 
+  separate(Base, c("Base", "tmp")) %>% 
+  mutate(Base = as.numeric(Base)) %>% 
+  gather(key = "Nucleotide", value = "Percentage", G:C) %>% 
+  mutate(Group = paste(SampleID, Nucleotide)) %>% 
+  ggplot(aes(Base, Percentage, color = Nucleotide, group = Group)) +
+  geom_line(alpha = 0.2) +
+  scale_color_brewer(palette = "Set2") +
+  facet_grid(Timepoint + ReadPair ~ Type, scales = "free") +
+  theme_minimal() 
+
+
+```
+Per sequence GC content
+```{r}
+p.seq.gc.ct %>% 
+  group_by(Library) %>% 
+  mutate(Total = sum(Count)) %>% 
+  mutate(Percent = Count/Total) %>% 
+  ggplot(aes(GC_Content, Percent, color = WaterTreatment)) +
+  geom_line(aes(group = SampleID)) +
+  facet_grid(ReadPair ~ Type + Timepoint, scales = "free") +
+  theme_minimal()
+```

@@ -1,0 +1,1541 @@
+Measure	Value	Library
+Filename	V01_DN_S218_L003_R1_001.fastq.gz	V01_DN_S218_L003_R1_001_fastqc
+File type	Conventional base calls	V01_DN_S218_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V01_DN_S218_L003_R1_001_fastqc
+Total Sequences	8135683	V01_DN_S218_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V01_DN_S218_L003_R1_001_fastqc
+Sequence length	151	V01_DN_S218_L003_R1_001_fastqc
+%GC	59	V01_DN_S218_L003_R1_001_fastqc
+Filename	V01_DN_S218_L003_R2_001.fastq.gz	V01_DN_S218_L003_R2_001_fastqc
+File type	Conventional base calls	V01_DN_S218_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V01_DN_S218_L003_R2_001_fastqc
+Total Sequences	8135683	V01_DN_S218_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V01_DN_S218_L003_R2_001_fastqc
+Sequence length	151	V01_DN_S218_L003_R2_001_fastqc
+%GC	58	V01_DN_S218_L003_R2_001_fastqc
+Filename	V03_DN_S219_L003_R1_001.fastq.gz	V03_DN_S219_L003_R1_001_fastqc
+File type	Conventional base calls	V03_DN_S219_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V03_DN_S219_L003_R1_001_fastqc
+Total Sequences	8200835	V03_DN_S219_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V03_DN_S219_L003_R1_001_fastqc
+Sequence length	151	V03_DN_S219_L003_R1_001_fastqc
+%GC	59	V03_DN_S219_L003_R1_001_fastqc
+Filename	V03_DN_S219_L003_R2_001.fastq.gz	V03_DN_S219_L003_R2_001_fastqc
+File type	Conventional base calls	V03_DN_S219_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V03_DN_S219_L003_R2_001_fastqc
+Total Sequences	8200835	V03_DN_S219_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V03_DN_S219_L003_R2_001_fastqc
+Sequence length	151	V03_DN_S219_L003_R2_001_fastqc
+%GC	58	V03_DN_S219_L003_R2_001_fastqc
+Filename	V05_DN_S220_L003_R1_001.fastq.gz	V05_DN_S220_L003_R1_001_fastqc
+File type	Conventional base calls	V05_DN_S220_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V05_DN_S220_L003_R1_001_fastqc
+Total Sequences	10033994	V05_DN_S220_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V05_DN_S220_L003_R1_001_fastqc
+Sequence length	151	V05_DN_S220_L003_R1_001_fastqc
+%GC	59	V05_DN_S220_L003_R1_001_fastqc
+Filename	V05_DN_S220_L003_R2_001.fastq.gz	V05_DN_S220_L003_R2_001_fastqc
+File type	Conventional base calls	V05_DN_S220_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V05_DN_S220_L003_R2_001_fastqc
+Total Sequences	10033994	V05_DN_S220_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V05_DN_S220_L003_R2_001_fastqc
+Sequence length	151	V05_DN_S220_L003_R2_001_fastqc
+%GC	58	V05_DN_S220_L003_R2_001_fastqc
+Filename	V09_DN_S221_L003_R1_001.fastq.gz	V09_DN_S221_L003_R1_001_fastqc
+File type	Conventional base calls	V09_DN_S221_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V09_DN_S221_L003_R1_001_fastqc
+Total Sequences	9473164	V09_DN_S221_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V09_DN_S221_L003_R1_001_fastqc
+Sequence length	151	V09_DN_S221_L003_R1_001_fastqc
+%GC	58	V09_DN_S221_L003_R1_001_fastqc
+Filename	V09_DN_S221_L003_R2_001.fastq.gz	V09_DN_S221_L003_R2_001_fastqc
+File type	Conventional base calls	V09_DN_S221_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V09_DN_S221_L003_R2_001_fastqc
+Total Sequences	9473164	V09_DN_S221_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V09_DN_S221_L003_R2_001_fastqc
+Sequence length	151	V09_DN_S221_L003_R2_001_fastqc
+%GC	59	V09_DN_S221_L003_R2_001_fastqc
+Filename	V10_DN_S222_L003_R1_001.fastq.gz	V10_DN_S222_L003_R1_001_fastqc
+File type	Conventional base calls	V10_DN_S222_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V10_DN_S222_L003_R1_001_fastqc
+Total Sequences	9363831	V10_DN_S222_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V10_DN_S222_L003_R1_001_fastqc
+Sequence length	151	V10_DN_S222_L003_R1_001_fastqc
+%GC	59	V10_DN_S222_L003_R1_001_fastqc
+Filename	V10_DN_S222_L003_R2_001.fastq.gz	V10_DN_S222_L003_R2_001_fastqc
+File type	Conventional base calls	V10_DN_S222_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V10_DN_S222_L003_R2_001_fastqc
+Total Sequences	9363831	V10_DN_S222_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V10_DN_S222_L003_R2_001_fastqc
+Sequence length	151	V10_DN_S222_L003_R2_001_fastqc
+%GC	59	V10_DN_S222_L003_R2_001_fastqc
+Filename	V11_DN_S223_L003_R1_001.fastq.gz	V11_DN_S223_L003_R1_001_fastqc
+File type	Conventional base calls	V11_DN_S223_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V11_DN_S223_L003_R1_001_fastqc
+Total Sequences	8949342	V11_DN_S223_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V11_DN_S223_L003_R1_001_fastqc
+Sequence length	151	V11_DN_S223_L003_R1_001_fastqc
+%GC	59	V11_DN_S223_L003_R1_001_fastqc
+Filename	V11_DN_S223_L003_R2_001.fastq.gz	V11_DN_S223_L003_R2_001_fastqc
+File type	Conventional base calls	V11_DN_S223_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V11_DN_S223_L003_R2_001_fastqc
+Total Sequences	8949342	V11_DN_S223_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V11_DN_S223_L003_R2_001_fastqc
+Sequence length	151	V11_DN_S223_L003_R2_001_fastqc
+%GC	58	V11_DN_S223_L003_R2_001_fastqc
+Filename	V17_DN_S224_L003_R1_001.fastq.gz	V17_DN_S224_L003_R1_001_fastqc
+File type	Conventional base calls	V17_DN_S224_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V17_DN_S224_L003_R1_001_fastqc
+Total Sequences	9582416	V17_DN_S224_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V17_DN_S224_L003_R1_001_fastqc
+Sequence length	151	V17_DN_S224_L003_R1_001_fastqc
+%GC	57	V17_DN_S224_L003_R1_001_fastqc
+Filename	V17_DN_S224_L003_R2_001.fastq.gz	V17_DN_S224_L003_R2_001_fastqc
+File type	Conventional base calls	V17_DN_S224_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V17_DN_S224_L003_R2_001_fastqc
+Total Sequences	9582416	V17_DN_S224_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V17_DN_S224_L003_R2_001_fastqc
+Sequence length	151	V17_DN_S224_L003_R2_001_fastqc
+%GC	58	V17_DN_S224_L003_R2_001_fastqc
+Filename	V19_DN_S225_L003_R1_001.fastq.gz	V19_DN_S225_L003_R1_001_fastqc
+File type	Conventional base calls	V19_DN_S225_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	V19_DN_S225_L003_R1_001_fastqc
+Total Sequences	11099297	V19_DN_S225_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	V19_DN_S225_L003_R1_001_fastqc
+Sequence length	151	V19_DN_S225_L003_R1_001_fastqc
+%GC	57	V19_DN_S225_L003_R1_001_fastqc
+Filename	V19_DN_S225_L003_R2_001.fastq.gz	V19_DN_S225_L003_R2_001_fastqc
+File type	Conventional base calls	V19_DN_S225_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	V19_DN_S225_L003_R2_001_fastqc
+Total Sequences	11099297	V19_DN_S225_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	V19_DN_S225_L003_R2_001_fastqc
+Sequence length	151	V19_DN_S225_L003_R2_001_fastqc
+%GC	57	V19_DN_S225_L003_R2_001_fastqc
+Filename	WUB_TM01_S131_L003_R1_001.fastq.gz	WUB_TM01_S131_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM01_S131_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM01_S131_L003_R1_001_fastqc
+Total Sequences	15967819	WUB_TM01_S131_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM01_S131_L003_R1_001_fastqc
+Sequence length	151	WUB_TM01_S131_L003_R1_001_fastqc
+%GC	67	WUB_TM01_S131_L003_R1_001_fastqc
+Filename	WUB_TM01_S131_L003_R2_001.fastq.gz	WUB_TM01_S131_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM01_S131_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM01_S131_L003_R2_001_fastqc
+Total Sequences	15967819	WUB_TM01_S131_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM01_S131_L003_R2_001_fastqc
+Sequence length	151	WUB_TM01_S131_L003_R2_001_fastqc
+%GC	67	WUB_TM01_S131_L003_R2_001_fastqc
+Filename	WUB_TM02_S132_L003_R1_001.fastq.gz	WUB_TM02_S132_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM02_S132_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM02_S132_L003_R1_001_fastqc
+Total Sequences	16443761	WUB_TM02_S132_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM02_S132_L003_R1_001_fastqc
+Sequence length	151	WUB_TM02_S132_L003_R1_001_fastqc
+%GC	67	WUB_TM02_S132_L003_R1_001_fastqc
+Filename	WUB_TM02_S132_L003_R2_001.fastq.gz	WUB_TM02_S132_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM02_S132_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM02_S132_L003_R2_001_fastqc
+Total Sequences	16443761	WUB_TM02_S132_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM02_S132_L003_R2_001_fastqc
+Sequence length	151	WUB_TM02_S132_L003_R2_001_fastqc
+%GC	67	WUB_TM02_S132_L003_R2_001_fastqc
+Filename	WUB_TM03_S133_L003_R1_001.fastq.gz	WUB_TM03_S133_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM03_S133_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM03_S133_L003_R1_001_fastqc
+Total Sequences	18160506	WUB_TM03_S133_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM03_S133_L003_R1_001_fastqc
+Sequence length	151	WUB_TM03_S133_L003_R1_001_fastqc
+%GC	67	WUB_TM03_S133_L003_R1_001_fastqc
+Filename	WUB_TM03_S133_L003_R2_001.fastq.gz	WUB_TM03_S133_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM03_S133_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM03_S133_L003_R2_001_fastqc
+Total Sequences	18160506	WUB_TM03_S133_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM03_S133_L003_R2_001_fastqc
+Sequence length	151	WUB_TM03_S133_L003_R2_001_fastqc
+%GC	67	WUB_TM03_S133_L003_R2_001_fastqc
+Filename	WUB_TM04_S134_L003_R1_001.fastq.gz	WUB_TM04_S134_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM04_S134_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM04_S134_L003_R1_001_fastqc
+Total Sequences	17713782	WUB_TM04_S134_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM04_S134_L003_R1_001_fastqc
+Sequence length	151	WUB_TM04_S134_L003_R1_001_fastqc
+%GC	66	WUB_TM04_S134_L003_R1_001_fastqc
+Filename	WUB_TM04_S134_L003_R2_001.fastq.gz	WUB_TM04_S134_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM04_S134_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM04_S134_L003_R2_001_fastqc
+Total Sequences	17713782	WUB_TM04_S134_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM04_S134_L003_R2_001_fastqc
+Sequence length	151	WUB_TM04_S134_L003_R2_001_fastqc
+%GC	66	WUB_TM04_S134_L003_R2_001_fastqc
+Filename	WUB_TM05_S135_L003_R1_001.fastq.gz	WUB_TM05_S135_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM05_S135_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM05_S135_L003_R1_001_fastqc
+Total Sequences	18334498	WUB_TM05_S135_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM05_S135_L003_R1_001_fastqc
+Sequence length	151	WUB_TM05_S135_L003_R1_001_fastqc
+%GC	66	WUB_TM05_S135_L003_R1_001_fastqc
+Filename	WUB_TM05_S135_L003_R2_001.fastq.gz	WUB_TM05_S135_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM05_S135_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM05_S135_L003_R2_001_fastqc
+Total Sequences	18334498	WUB_TM05_S135_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM05_S135_L003_R2_001_fastqc
+Sequence length	151	WUB_TM05_S135_L003_R2_001_fastqc
+%GC	66	WUB_TM05_S135_L003_R2_001_fastqc
+Filename	WUB_TM06_S136_L003_R1_001.fastq.gz	WUB_TM06_S136_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM06_S136_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM06_S136_L003_R1_001_fastqc
+Total Sequences	16836205	WUB_TM06_S136_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM06_S136_L003_R1_001_fastqc
+Sequence length	151	WUB_TM06_S136_L003_R1_001_fastqc
+%GC	66	WUB_TM06_S136_L003_R1_001_fastqc
+Filename	WUB_TM06_S136_L003_R2_001.fastq.gz	WUB_TM06_S136_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM06_S136_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM06_S136_L003_R2_001_fastqc
+Total Sequences	16836205	WUB_TM06_S136_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM06_S136_L003_R2_001_fastqc
+Sequence length	151	WUB_TM06_S136_L003_R2_001_fastqc
+%GC	66	WUB_TM06_S136_L003_R2_001_fastqc
+Filename	WUB_TM07_S137_L003_R1_001.fastq.gz	WUB_TM07_S137_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM07_S137_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM07_S137_L003_R1_001_fastqc
+Total Sequences	14976317	WUB_TM07_S137_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM07_S137_L003_R1_001_fastqc
+Sequence length	151	WUB_TM07_S137_L003_R1_001_fastqc
+%GC	66	WUB_TM07_S137_L003_R1_001_fastqc
+Filename	WUB_TM07_S137_L003_R2_001.fastq.gz	WUB_TM07_S137_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM07_S137_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM07_S137_L003_R2_001_fastqc
+Total Sequences	14976317	WUB_TM07_S137_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM07_S137_L003_R2_001_fastqc
+Sequence length	151	WUB_TM07_S137_L003_R2_001_fastqc
+%GC	66	WUB_TM07_S137_L003_R2_001_fastqc
+Filename	WUB_TM08_S138_L003_R1_001.fastq.gz	WUB_TM08_S138_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM08_S138_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM08_S138_L003_R1_001_fastqc
+Total Sequences	16952355	WUB_TM08_S138_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM08_S138_L003_R1_001_fastqc
+Sequence length	151	WUB_TM08_S138_L003_R1_001_fastqc
+%GC	66	WUB_TM08_S138_L003_R1_001_fastqc
+Filename	WUB_TM08_S138_L003_R2_001.fastq.gz	WUB_TM08_S138_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM08_S138_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM08_S138_L003_R2_001_fastqc
+Total Sequences	16952355	WUB_TM08_S138_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM08_S138_L003_R2_001_fastqc
+Sequence length	151	WUB_TM08_S138_L003_R2_001_fastqc
+%GC	66	WUB_TM08_S138_L003_R2_001_fastqc
+Filename	WUB_TM09_S139_L003_R1_001.fastq.gz	WUB_TM09_S139_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM09_S139_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM09_S139_L003_R1_001_fastqc
+Total Sequences	15887950	WUB_TM09_S139_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM09_S139_L003_R1_001_fastqc
+Sequence length	151	WUB_TM09_S139_L003_R1_001_fastqc
+%GC	65	WUB_TM09_S139_L003_R1_001_fastqc
+Filename	WUB_TM09_S139_L003_R2_001.fastq.gz	WUB_TM09_S139_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM09_S139_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM09_S139_L003_R2_001_fastqc
+Total Sequences	15887950	WUB_TM09_S139_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM09_S139_L003_R2_001_fastqc
+Sequence length	151	WUB_TM09_S139_L003_R2_001_fastqc
+%GC	65	WUB_TM09_S139_L003_R2_001_fastqc
+Filename	WUB_TM10_S140_L003_R1_001.fastq.gz	WUB_TM10_S140_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM10_S140_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM10_S140_L003_R1_001_fastqc
+Total Sequences	16035619	WUB_TM10_S140_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM10_S140_L003_R1_001_fastqc
+Sequence length	151	WUB_TM10_S140_L003_R1_001_fastqc
+%GC	65	WUB_TM10_S140_L003_R1_001_fastqc
+Filename	WUB_TM10_S140_L003_R2_001.fastq.gz	WUB_TM10_S140_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM10_S140_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM10_S140_L003_R2_001_fastqc
+Total Sequences	16035619	WUB_TM10_S140_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM10_S140_L003_R2_001_fastqc
+Sequence length	151	WUB_TM10_S140_L003_R2_001_fastqc
+%GC	65	WUB_TM10_S140_L003_R2_001_fastqc
+Filename	WUB_TM11_S141_L003_R1_001.fastq.gz	WUB_TM11_S141_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM11_S141_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM11_S141_L003_R1_001_fastqc
+Total Sequences	17524591	WUB_TM11_S141_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM11_S141_L003_R1_001_fastqc
+Sequence length	151	WUB_TM11_S141_L003_R1_001_fastqc
+%GC	65	WUB_TM11_S141_L003_R1_001_fastqc
+Filename	WUB_TM11_S141_L003_R2_001.fastq.gz	WUB_TM11_S141_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM11_S141_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM11_S141_L003_R2_001_fastqc
+Total Sequences	17524591	WUB_TM11_S141_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM11_S141_L003_R2_001_fastqc
+Sequence length	151	WUB_TM11_S141_L003_R2_001_fastqc
+%GC	65	WUB_TM11_S141_L003_R2_001_fastqc
+Filename	WUB_TM12_S142_L003_R1_001.fastq.gz	WUB_TM12_S142_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM12_S142_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM12_S142_L003_R1_001_fastqc
+Total Sequences	19685327	WUB_TM12_S142_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM12_S142_L003_R1_001_fastqc
+Sequence length	151	WUB_TM12_S142_L003_R1_001_fastqc
+%GC	65	WUB_TM12_S142_L003_R1_001_fastqc
+Filename	WUB_TM12_S142_L003_R2_001.fastq.gz	WUB_TM12_S142_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM12_S142_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM12_S142_L003_R2_001_fastqc
+Total Sequences	19685327	WUB_TM12_S142_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM12_S142_L003_R2_001_fastqc
+Sequence length	151	WUB_TM12_S142_L003_R2_001_fastqc
+%GC	65	WUB_TM12_S142_L003_R2_001_fastqc
+Filename	WUB_TM13_S143_L003_R1_001.fastq.gz	WUB_TM13_S143_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM13_S143_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM13_S143_L003_R1_001_fastqc
+Total Sequences	19293355	WUB_TM13_S143_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM13_S143_L003_R1_001_fastqc
+Sequence length	151	WUB_TM13_S143_L003_R1_001_fastqc
+%GC	66	WUB_TM13_S143_L003_R1_001_fastqc
+Filename	WUB_TM13_S143_L003_R2_001.fastq.gz	WUB_TM13_S143_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM13_S143_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM13_S143_L003_R2_001_fastqc
+Total Sequences	19293355	WUB_TM13_S143_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM13_S143_L003_R2_001_fastqc
+Sequence length	151	WUB_TM13_S143_L003_R2_001_fastqc
+%GC	66	WUB_TM13_S143_L003_R2_001_fastqc
+Filename	WUB_TM14_S144_L003_R1_001.fastq.gz	WUB_TM14_S144_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM14_S144_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM14_S144_L003_R1_001_fastqc
+Total Sequences	17206868	WUB_TM14_S144_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM14_S144_L003_R1_001_fastqc
+Sequence length	151	WUB_TM14_S144_L003_R1_001_fastqc
+%GC	65	WUB_TM14_S144_L003_R1_001_fastqc
+Filename	WUB_TM14_S144_L003_R2_001.fastq.gz	WUB_TM14_S144_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM14_S144_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM14_S144_L003_R2_001_fastqc
+Total Sequences	17206868	WUB_TM14_S144_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM14_S144_L003_R2_001_fastqc
+Sequence length	151	WUB_TM14_S144_L003_R2_001_fastqc
+%GC	65	WUB_TM14_S144_L003_R2_001_fastqc
+Filename	WUB_TM15_S145_L003_R1_001.fastq.gz	WUB_TM15_S145_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM15_S145_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM15_S145_L003_R1_001_fastqc
+Total Sequences	22372718	WUB_TM15_S145_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM15_S145_L003_R1_001_fastqc
+Sequence length	151	WUB_TM15_S145_L003_R1_001_fastqc
+%GC	65	WUB_TM15_S145_L003_R1_001_fastqc
+Filename	WUB_TM15_S145_L003_R2_001.fastq.gz	WUB_TM15_S145_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM15_S145_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM15_S145_L003_R2_001_fastqc
+Total Sequences	22372718	WUB_TM15_S145_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM15_S145_L003_R2_001_fastqc
+Sequence length	151	WUB_TM15_S145_L003_R2_001_fastqc
+%GC	65	WUB_TM15_S145_L003_R2_001_fastqc
+Filename	WUB_TM16_S146_L003_R1_001.fastq.gz	WUB_TM16_S146_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM16_S146_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM16_S146_L003_R1_001_fastqc
+Total Sequences	18904950	WUB_TM16_S146_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM16_S146_L003_R1_001_fastqc
+Sequence length	151	WUB_TM16_S146_L003_R1_001_fastqc
+%GC	65	WUB_TM16_S146_L003_R1_001_fastqc
+Filename	WUB_TM16_S146_L003_R2_001.fastq.gz	WUB_TM16_S146_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM16_S146_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM16_S146_L003_R2_001_fastqc
+Total Sequences	18904950	WUB_TM16_S146_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM16_S146_L003_R2_001_fastqc
+Sequence length	151	WUB_TM16_S146_L003_R2_001_fastqc
+%GC	65	WUB_TM16_S146_L003_R2_001_fastqc
+Filename	WUB_TM17_S147_L003_R1_001.fastq.gz	WUB_TM17_S147_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM17_S147_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM17_S147_L003_R1_001_fastqc
+Total Sequences	15839375	WUB_TM17_S147_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM17_S147_L003_R1_001_fastqc
+Sequence length	151	WUB_TM17_S147_L003_R1_001_fastqc
+%GC	65	WUB_TM17_S147_L003_R1_001_fastqc
+Filename	WUB_TM17_S147_L003_R2_001.fastq.gz	WUB_TM17_S147_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM17_S147_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM17_S147_L003_R2_001_fastqc
+Total Sequences	15839375	WUB_TM17_S147_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM17_S147_L003_R2_001_fastqc
+Sequence length	151	WUB_TM17_S147_L003_R2_001_fastqc
+%GC	65	WUB_TM17_S147_L003_R2_001_fastqc
+Filename	WUB_TM18_S148_L003_R1_001.fastq.gz	WUB_TM18_S148_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM18_S148_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM18_S148_L003_R1_001_fastqc
+Total Sequences	14721453	WUB_TM18_S148_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM18_S148_L003_R1_001_fastqc
+Sequence length	151	WUB_TM18_S148_L003_R1_001_fastqc
+%GC	65	WUB_TM18_S148_L003_R1_001_fastqc
+Filename	WUB_TM18_S148_L003_R2_001.fastq.gz	WUB_TM18_S148_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM18_S148_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM18_S148_L003_R2_001_fastqc
+Total Sequences	14721453	WUB_TM18_S148_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM18_S148_L003_R2_001_fastqc
+Sequence length	151	WUB_TM18_S148_L003_R2_001_fastqc
+%GC	65	WUB_TM18_S148_L003_R2_001_fastqc
+Filename	WUB_TM19_S149_L003_R1_001.fastq.gz	WUB_TM19_S149_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM19_S149_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM19_S149_L003_R1_001_fastqc
+Total Sequences	18205271	WUB_TM19_S149_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM19_S149_L003_R1_001_fastqc
+Sequence length	151	WUB_TM19_S149_L003_R1_001_fastqc
+%GC	65	WUB_TM19_S149_L003_R1_001_fastqc
+Filename	WUB_TM19_S149_L003_R2_001.fastq.gz	WUB_TM19_S149_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM19_S149_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM19_S149_L003_R2_001_fastqc
+Total Sequences	18205271	WUB_TM19_S149_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM19_S149_L003_R2_001_fastqc
+Sequence length	151	WUB_TM19_S149_L003_R2_001_fastqc
+%GC	65	WUB_TM19_S149_L003_R2_001_fastqc
+Filename	WUB_TM20_S150_L003_R1_001.fastq.gz	WUB_TM20_S150_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM20_S150_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM20_S150_L003_R1_001_fastqc
+Total Sequences	16444640	WUB_TM20_S150_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM20_S150_L003_R1_001_fastqc
+Sequence length	151	WUB_TM20_S150_L003_R1_001_fastqc
+%GC	66	WUB_TM20_S150_L003_R1_001_fastqc
+Filename	WUB_TM20_S150_L003_R2_001.fastq.gz	WUB_TM20_S150_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM20_S150_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM20_S150_L003_R2_001_fastqc
+Total Sequences	16444640	WUB_TM20_S150_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM20_S150_L003_R2_001_fastqc
+Sequence length	151	WUB_TM20_S150_L003_R2_001_fastqc
+%GC	66	WUB_TM20_S150_L003_R2_001_fastqc
+Filename	WUB_TM21_S151_L003_R1_001.fastq.gz	WUB_TM21_S151_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM21_S151_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM21_S151_L003_R1_001_fastqc
+Total Sequences	19452077	WUB_TM21_S151_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM21_S151_L003_R1_001_fastqc
+Sequence length	151	WUB_TM21_S151_L003_R1_001_fastqc
+%GC	65	WUB_TM21_S151_L003_R1_001_fastqc
+Filename	WUB_TM21_S151_L003_R2_001.fastq.gz	WUB_TM21_S151_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM21_S151_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM21_S151_L003_R2_001_fastqc
+Total Sequences	19452077	WUB_TM21_S151_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM21_S151_L003_R2_001_fastqc
+Sequence length	151	WUB_TM21_S151_L003_R2_001_fastqc
+%GC	65	WUB_TM21_S151_L003_R2_001_fastqc
+Filename	WUB_TM22_S152_L003_R1_001.fastq.gz	WUB_TM22_S152_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM22_S152_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM22_S152_L003_R1_001_fastqc
+Total Sequences	16147656	WUB_TM22_S152_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM22_S152_L003_R1_001_fastqc
+Sequence length	151	WUB_TM22_S152_L003_R1_001_fastqc
+%GC	65	WUB_TM22_S152_L003_R1_001_fastqc
+Filename	WUB_TM22_S152_L003_R2_001.fastq.gz	WUB_TM22_S152_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM22_S152_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM22_S152_L003_R2_001_fastqc
+Total Sequences	16147656	WUB_TM22_S152_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM22_S152_L003_R2_001_fastqc
+Sequence length	151	WUB_TM22_S152_L003_R2_001_fastqc
+%GC	65	WUB_TM22_S152_L003_R2_001_fastqc
+Filename	WUB_TM23_S153_L003_R1_001.fastq.gz	WUB_TM23_S153_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM23_S153_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM23_S153_L003_R1_001_fastqc
+Total Sequences	17523605	WUB_TM23_S153_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM23_S153_L003_R1_001_fastqc
+Sequence length	151	WUB_TM23_S153_L003_R1_001_fastqc
+%GC	65	WUB_TM23_S153_L003_R1_001_fastqc
+Filename	WUB_TM23_S153_L003_R2_001.fastq.gz	WUB_TM23_S153_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM23_S153_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM23_S153_L003_R2_001_fastqc
+Total Sequences	17523605	WUB_TM23_S153_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM23_S153_L003_R2_001_fastqc
+Sequence length	151	WUB_TM23_S153_L003_R2_001_fastqc
+%GC	65	WUB_TM23_S153_L003_R2_001_fastqc
+Filename	WUB_TM24_S154_L003_R1_001.fastq.gz	WUB_TM24_S154_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM24_S154_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM24_S154_L003_R1_001_fastqc
+Total Sequences	20466970	WUB_TM24_S154_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM24_S154_L003_R1_001_fastqc
+Sequence length	151	WUB_TM24_S154_L003_R1_001_fastqc
+%GC	65	WUB_TM24_S154_L003_R1_001_fastqc
+Filename	WUB_TM24_S154_L003_R2_001.fastq.gz	WUB_TM24_S154_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM24_S154_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM24_S154_L003_R2_001_fastqc
+Total Sequences	20466970	WUB_TM24_S154_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM24_S154_L003_R2_001_fastqc
+Sequence length	151	WUB_TM24_S154_L003_R2_001_fastqc
+%GC	65	WUB_TM24_S154_L003_R2_001_fastqc
+Filename	WUB_TM25_S155_L003_R1_001.fastq.gz	WUB_TM25_S155_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM25_S155_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM25_S155_L003_R1_001_fastqc
+Total Sequences	15952284	WUB_TM25_S155_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM25_S155_L003_R1_001_fastqc
+Sequence length	151	WUB_TM25_S155_L003_R1_001_fastqc
+%GC	65	WUB_TM25_S155_L003_R1_001_fastqc
+Filename	WUB_TM25_S155_L003_R2_001.fastq.gz	WUB_TM25_S155_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM25_S155_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM25_S155_L003_R2_001_fastqc
+Total Sequences	15952284	WUB_TM25_S155_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM25_S155_L003_R2_001_fastqc
+Sequence length	151	WUB_TM25_S155_L003_R2_001_fastqc
+%GC	65	WUB_TM25_S155_L003_R2_001_fastqc
+Filename	WUB_TM26_S156_L003_R1_001.fastq.gz	WUB_TM26_S156_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM26_S156_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM26_S156_L003_R1_001_fastqc
+Total Sequences	16151941	WUB_TM26_S156_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM26_S156_L003_R1_001_fastqc
+Sequence length	151	WUB_TM26_S156_L003_R1_001_fastqc
+%GC	66	WUB_TM26_S156_L003_R1_001_fastqc
+Filename	WUB_TM26_S156_L003_R2_001.fastq.gz	WUB_TM26_S156_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM26_S156_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM26_S156_L003_R2_001_fastqc
+Total Sequences	16151941	WUB_TM26_S156_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM26_S156_L003_R2_001_fastqc
+Sequence length	151	WUB_TM26_S156_L003_R2_001_fastqc
+%GC	66	WUB_TM26_S156_L003_R2_001_fastqc
+Filename	WUB_TM27_S157_L003_R1_001.fastq.gz	WUB_TM27_S157_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM27_S157_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM27_S157_L003_R1_001_fastqc
+Total Sequences	18264105	WUB_TM27_S157_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM27_S157_L003_R1_001_fastqc
+Sequence length	151	WUB_TM27_S157_L003_R1_001_fastqc
+%GC	65	WUB_TM27_S157_L003_R1_001_fastqc
+Filename	WUB_TM27_S157_L003_R2_001.fastq.gz	WUB_TM27_S157_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM27_S157_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM27_S157_L003_R2_001_fastqc
+Total Sequences	18264105	WUB_TM27_S157_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM27_S157_L003_R2_001_fastqc
+Sequence length	151	WUB_TM27_S157_L003_R2_001_fastqc
+%GC	65	WUB_TM27_S157_L003_R2_001_fastqc
+Filename	WUB_TM28_S158_L003_R1_001.fastq.gz	WUB_TM28_S158_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM28_S158_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM28_S158_L003_R1_001_fastqc
+Total Sequences	17129455	WUB_TM28_S158_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM28_S158_L003_R1_001_fastqc
+Sequence length	151	WUB_TM28_S158_L003_R1_001_fastqc
+%GC	65	WUB_TM28_S158_L003_R1_001_fastqc
+Filename	WUB_TM28_S158_L003_R2_001.fastq.gz	WUB_TM28_S158_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM28_S158_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM28_S158_L003_R2_001_fastqc
+Total Sequences	17129455	WUB_TM28_S158_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM28_S158_L003_R2_001_fastqc
+Sequence length	151	WUB_TM28_S158_L003_R2_001_fastqc
+%GC	65	WUB_TM28_S158_L003_R2_001_fastqc
+Filename	WUB_TM29_S159_L003_R1_001.fastq.gz	WUB_TM29_S159_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM29_S159_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM29_S159_L003_R1_001_fastqc
+Total Sequences	15070759	WUB_TM29_S159_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM29_S159_L003_R1_001_fastqc
+Sequence length	151	WUB_TM29_S159_L003_R1_001_fastqc
+%GC	65	WUB_TM29_S159_L003_R1_001_fastqc
+Filename	WUB_TM29_S159_L003_R2_001.fastq.gz	WUB_TM29_S159_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM29_S159_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM29_S159_L003_R2_001_fastqc
+Total Sequences	15070759	WUB_TM29_S159_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM29_S159_L003_R2_001_fastqc
+Sequence length	151	WUB_TM29_S159_L003_R2_001_fastqc
+%GC	65	WUB_TM29_S159_L003_R2_001_fastqc
+Filename	WUB_TM30_S160_L003_R1_001.fastq.gz	WUB_TM30_S160_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM30_S160_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM30_S160_L003_R1_001_fastqc
+Total Sequences	20073148	WUB_TM30_S160_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM30_S160_L003_R1_001_fastqc
+Sequence length	151	WUB_TM30_S160_L003_R1_001_fastqc
+%GC	65	WUB_TM30_S160_L003_R1_001_fastqc
+Filename	WUB_TM30_S160_L003_R2_001.fastq.gz	WUB_TM30_S160_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM30_S160_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM30_S160_L003_R2_001_fastqc
+Total Sequences	20073148	WUB_TM30_S160_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM30_S160_L003_R2_001_fastqc
+Sequence length	151	WUB_TM30_S160_L003_R2_001_fastqc
+%GC	65	WUB_TM30_S160_L003_R2_001_fastqc
+Filename	WUB_TM31_S161_L003_R1_001.fastq.gz	WUB_TM31_S161_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM31_S161_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM31_S161_L003_R1_001_fastqc
+Total Sequences	17854251	WUB_TM31_S161_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM31_S161_L003_R1_001_fastqc
+Sequence length	151	WUB_TM31_S161_L003_R1_001_fastqc
+%GC	65	WUB_TM31_S161_L003_R1_001_fastqc
+Filename	WUB_TM31_S161_L003_R2_001.fastq.gz	WUB_TM31_S161_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM31_S161_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM31_S161_L003_R2_001_fastqc
+Total Sequences	17854251	WUB_TM31_S161_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM31_S161_L003_R2_001_fastqc
+Sequence length	151	WUB_TM31_S161_L003_R2_001_fastqc
+%GC	65	WUB_TM31_S161_L003_R2_001_fastqc
+Filename	WUB_TM32_S162_L003_R1_001.fastq.gz	WUB_TM32_S162_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM32_S162_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM32_S162_L003_R1_001_fastqc
+Total Sequences	17117133	WUB_TM32_S162_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM32_S162_L003_R1_001_fastqc
+Sequence length	151	WUB_TM32_S162_L003_R1_001_fastqc
+%GC	65	WUB_TM32_S162_L003_R1_001_fastqc
+Filename	WUB_TM32_S162_L003_R2_001.fastq.gz	WUB_TM32_S162_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM32_S162_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM32_S162_L003_R2_001_fastqc
+Total Sequences	17117133	WUB_TM32_S162_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM32_S162_L003_R2_001_fastqc
+Sequence length	151	WUB_TM32_S162_L003_R2_001_fastqc
+%GC	65	WUB_TM32_S162_L003_R2_001_fastqc
+Filename	WUB_TM33_S163_L003_R1_001.fastq.gz	WUB_TM33_S163_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM33_S163_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM33_S163_L003_R1_001_fastqc
+Total Sequences	14947300	WUB_TM33_S163_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM33_S163_L003_R1_001_fastqc
+Sequence length	151	WUB_TM33_S163_L003_R1_001_fastqc
+%GC	65	WUB_TM33_S163_L003_R1_001_fastqc
+Filename	WUB_TM33_S163_L003_R2_001.fastq.gz	WUB_TM33_S163_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM33_S163_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM33_S163_L003_R2_001_fastqc
+Total Sequences	14947300	WUB_TM33_S163_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM33_S163_L003_R2_001_fastqc
+Sequence length	151	WUB_TM33_S163_L003_R2_001_fastqc
+%GC	65	WUB_TM33_S163_L003_R2_001_fastqc
+Filename	WUB_TM34_S164_L003_R1_001.fastq.gz	WUB_TM34_S164_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM34_S164_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM34_S164_L003_R1_001_fastqc
+Total Sequences	16906895	WUB_TM34_S164_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM34_S164_L003_R1_001_fastqc
+Sequence length	151	WUB_TM34_S164_L003_R1_001_fastqc
+%GC	65	WUB_TM34_S164_L003_R1_001_fastqc
+Filename	WUB_TM34_S164_L003_R2_001.fastq.gz	WUB_TM34_S164_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM34_S164_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM34_S164_L003_R2_001_fastqc
+Total Sequences	16906895	WUB_TM34_S164_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM34_S164_L003_R2_001_fastqc
+Sequence length	151	WUB_TM34_S164_L003_R2_001_fastqc
+%GC	65	WUB_TM34_S164_L003_R2_001_fastqc
+Filename	WUB_TM35_S165_L003_R1_001.fastq.gz	WUB_TM35_S165_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM35_S165_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM35_S165_L003_R1_001_fastqc
+Total Sequences	18847885	WUB_TM35_S165_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM35_S165_L003_R1_001_fastqc
+Sequence length	151	WUB_TM35_S165_L003_R1_001_fastqc
+%GC	65	WUB_TM35_S165_L003_R1_001_fastqc
+Filename	WUB_TM35_S165_L003_R2_001.fastq.gz	WUB_TM35_S165_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM35_S165_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM35_S165_L003_R2_001_fastqc
+Total Sequences	18847885	WUB_TM35_S165_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM35_S165_L003_R2_001_fastqc
+Sequence length	151	WUB_TM35_S165_L003_R2_001_fastqc
+%GC	65	WUB_TM35_S165_L003_R2_001_fastqc
+Filename	WUB_TM36_S166_L003_R1_001.fastq.gz	WUB_TM36_S166_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM36_S166_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM36_S166_L003_R1_001_fastqc
+Total Sequences	19222325	WUB_TM36_S166_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM36_S166_L003_R1_001_fastqc
+Sequence length	151	WUB_TM36_S166_L003_R1_001_fastqc
+%GC	65	WUB_TM36_S166_L003_R1_001_fastqc
+Filename	WUB_TM36_S166_L003_R2_001.fastq.gz	WUB_TM36_S166_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM36_S166_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM36_S166_L003_R2_001_fastqc
+Total Sequences	19222325	WUB_TM36_S166_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM36_S166_L003_R2_001_fastqc
+Sequence length	151	WUB_TM36_S166_L003_R2_001_fastqc
+%GC	65	WUB_TM36_S166_L003_R2_001_fastqc
+Filename	WUB_TM37_S167_L003_R1_001.fastq.gz	WUB_TM37_S167_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM37_S167_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM37_S167_L003_R1_001_fastqc
+Total Sequences	16639913	WUB_TM37_S167_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM37_S167_L003_R1_001_fastqc
+Sequence length	151	WUB_TM37_S167_L003_R1_001_fastqc
+%GC	65	WUB_TM37_S167_L003_R1_001_fastqc
+Filename	WUB_TM37_S167_L003_R2_001.fastq.gz	WUB_TM37_S167_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM37_S167_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM37_S167_L003_R2_001_fastqc
+Total Sequences	16639913	WUB_TM37_S167_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM37_S167_L003_R2_001_fastqc
+Sequence length	151	WUB_TM37_S167_L003_R2_001_fastqc
+%GC	65	WUB_TM37_S167_L003_R2_001_fastqc
+Filename	WUB_TM38_S168_L003_R1_001.fastq.gz	WUB_TM38_S168_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM38_S168_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM38_S168_L003_R1_001_fastqc
+Total Sequences	18781551	WUB_TM38_S168_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM38_S168_L003_R1_001_fastqc
+Sequence length	151	WUB_TM38_S168_L003_R1_001_fastqc
+%GC	66	WUB_TM38_S168_L003_R1_001_fastqc
+Filename	WUB_TM38_S168_L003_R2_001.fastq.gz	WUB_TM38_S168_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM38_S168_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM38_S168_L003_R2_001_fastqc
+Total Sequences	18781551	WUB_TM38_S168_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM38_S168_L003_R2_001_fastqc
+Sequence length	151	WUB_TM38_S168_L003_R2_001_fastqc
+%GC	66	WUB_TM38_S168_L003_R2_001_fastqc
+Filename	WUB_TM39_S169_L003_R1_001.fastq.gz	WUB_TM39_S169_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM39_S169_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM39_S169_L003_R1_001_fastqc
+Total Sequences	16180309	WUB_TM39_S169_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM39_S169_L003_R1_001_fastqc
+Sequence length	151	WUB_TM39_S169_L003_R1_001_fastqc
+%GC	65	WUB_TM39_S169_L003_R1_001_fastqc
+Filename	WUB_TM39_S169_L003_R2_001.fastq.gz	WUB_TM39_S169_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM39_S169_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM39_S169_L003_R2_001_fastqc
+Total Sequences	16180309	WUB_TM39_S169_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM39_S169_L003_R2_001_fastqc
+Sequence length	151	WUB_TM39_S169_L003_R2_001_fastqc
+%GC	65	WUB_TM39_S169_L003_R2_001_fastqc
+Filename	WUB_TM40_S170_L003_R1_001.fastq.gz	WUB_TM40_S170_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM40_S170_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM40_S170_L003_R1_001_fastqc
+Total Sequences	27619221	WUB_TM40_S170_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM40_S170_L003_R1_001_fastqc
+Sequence length	151	WUB_TM40_S170_L003_R1_001_fastqc
+%GC	65	WUB_TM40_S170_L003_R1_001_fastqc
+Filename	WUB_TM40_S170_L003_R2_001.fastq.gz	WUB_TM40_S170_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM40_S170_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM40_S170_L003_R2_001_fastqc
+Total Sequences	27619221	WUB_TM40_S170_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM40_S170_L003_R2_001_fastqc
+Sequence length	151	WUB_TM40_S170_L003_R2_001_fastqc
+%GC	65	WUB_TM40_S170_L003_R2_001_fastqc
+Filename	WUB_TM41_S171_L003_R1_001.fastq.gz	WUB_TM41_S171_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM41_S171_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM41_S171_L003_R1_001_fastqc
+Total Sequences	19302325	WUB_TM41_S171_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM41_S171_L003_R1_001_fastqc
+Sequence length	151	WUB_TM41_S171_L003_R1_001_fastqc
+%GC	65	WUB_TM41_S171_L003_R1_001_fastqc
+Filename	WUB_TM41_S171_L003_R2_001.fastq.gz	WUB_TM41_S171_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM41_S171_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM41_S171_L003_R2_001_fastqc
+Total Sequences	19302325	WUB_TM41_S171_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM41_S171_L003_R2_001_fastqc
+Sequence length	151	WUB_TM41_S171_L003_R2_001_fastqc
+%GC	65	WUB_TM41_S171_L003_R2_001_fastqc
+Filename	WUB_TM42_S172_L003_R1_001.fastq.gz	WUB_TM42_S172_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_TM42_S172_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM42_S172_L003_R1_001_fastqc
+Total Sequences	19688846	WUB_TM42_S172_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM42_S172_L003_R1_001_fastqc
+Sequence length	151	WUB_TM42_S172_L003_R1_001_fastqc
+%GC	65	WUB_TM42_S172_L003_R1_001_fastqc
+Filename	WUB_TM42_S172_L003_R2_001.fastq.gz	WUB_TM42_S172_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_TM42_S172_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM42_S172_L003_R2_001_fastqc
+Total Sequences	19688846	WUB_TM42_S172_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_TM42_S172_L003_R2_001_fastqc
+Sequence length	151	WUB_TM42_S172_L003_R2_001_fastqc
+%GC	65	WUB_TM42_S172_L003_R2_001_fastqc
+Filename	WUB_VD01_S233_L003_R1_001.fastq.gz	WUB_VD01_S233_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD01_S233_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD01_S233_L003_R1_001_fastqc
+Total Sequences	9020055	WUB_VD01_S233_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD01_S233_L003_R1_001_fastqc
+Sequence length	151	WUB_VD01_S233_L003_R1_001_fastqc
+%GC	64	WUB_VD01_S233_L003_R1_001_fastqc
+Filename	WUB_VD01_S233_L003_R2_001.fastq.gz	WUB_VD01_S233_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD01_S233_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD01_S233_L003_R2_001_fastqc
+Total Sequences	9020055	WUB_VD01_S233_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD01_S233_L003_R2_001_fastqc
+Sequence length	151	WUB_VD01_S233_L003_R2_001_fastqc
+%GC	62	WUB_VD01_S233_L003_R2_001_fastqc
+Filename	WUB_VD02_S234_L003_R1_001.fastq.gz	WUB_VD02_S234_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD02_S234_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD02_S234_L003_R1_001_fastqc
+Total Sequences	7963196	WUB_VD02_S234_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD02_S234_L003_R1_001_fastqc
+Sequence length	151	WUB_VD02_S234_L003_R1_001_fastqc
+%GC	62	WUB_VD02_S234_L003_R1_001_fastqc
+Filename	WUB_VD02_S234_L003_R2_001.fastq.gz	WUB_VD02_S234_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD02_S234_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD02_S234_L003_R2_001_fastqc
+Total Sequences	7963196	WUB_VD02_S234_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD02_S234_L003_R2_001_fastqc
+Sequence length	151	WUB_VD02_S234_L003_R2_001_fastqc
+%GC	62	WUB_VD02_S234_L003_R2_001_fastqc
+Filename	WUB_VD03_S235_L003_R1_001.fastq.gz	WUB_VD03_S235_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD03_S235_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD03_S235_L003_R1_001_fastqc
+Total Sequences	8733909	WUB_VD03_S235_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD03_S235_L003_R1_001_fastqc
+Sequence length	151	WUB_VD03_S235_L003_R1_001_fastqc
+%GC	62	WUB_VD03_S235_L003_R1_001_fastqc
+Filename	WUB_VD03_S235_L003_R2_001.fastq.gz	WUB_VD03_S235_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD03_S235_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD03_S235_L003_R2_001_fastqc
+Total Sequences	8733909	WUB_VD03_S235_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD03_S235_L003_R2_001_fastqc
+Sequence length	151	WUB_VD03_S235_L003_R2_001_fastqc
+%GC	62	WUB_VD03_S235_L003_R2_001_fastqc
+Filename	WUB_VD04_S226_L003_R1_001.fastq.gz	WUB_VD04_S226_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD04_S226_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD04_S226_L003_R1_001_fastqc
+Total Sequences	8967375	WUB_VD04_S226_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD04_S226_L003_R1_001_fastqc
+Sequence length	151	WUB_VD04_S226_L003_R1_001_fastqc
+%GC	63	WUB_VD04_S226_L003_R1_001_fastqc
+Filename	WUB_VD04_S226_L003_R2_001.fastq.gz	WUB_VD04_S226_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD04_S226_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD04_S226_L003_R2_001_fastqc
+Total Sequences	8967375	WUB_VD04_S226_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD04_S226_L003_R2_001_fastqc
+Sequence length	151	WUB_VD04_S226_L003_R2_001_fastqc
+%GC	63	WUB_VD04_S226_L003_R2_001_fastqc
+Filename	WUB_VD05_S236_L003_R1_001.fastq.gz	WUB_VD05_S236_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD05_S236_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD05_S236_L003_R1_001_fastqc
+Total Sequences	9618043	WUB_VD05_S236_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD05_S236_L003_R1_001_fastqc
+Sequence length	151	WUB_VD05_S236_L003_R1_001_fastqc
+%GC	64	WUB_VD05_S236_L003_R1_001_fastqc
+Filename	WUB_VD05_S236_L003_R2_001.fastq.gz	WUB_VD05_S236_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD05_S236_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD05_S236_L003_R2_001_fastqc
+Total Sequences	9618043	WUB_VD05_S236_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD05_S236_L003_R2_001_fastqc
+Sequence length	151	WUB_VD05_S236_L003_R2_001_fastqc
+%GC	64	WUB_VD05_S236_L003_R2_001_fastqc
+Filename	WUB_VD06_S237_L003_R1_001.fastq.gz	WUB_VD06_S237_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD06_S237_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD06_S237_L003_R1_001_fastqc
+Total Sequences	10279425	WUB_VD06_S237_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD06_S237_L003_R1_001_fastqc
+Sequence length	151	WUB_VD06_S237_L003_R1_001_fastqc
+%GC	63	WUB_VD06_S237_L003_R1_001_fastqc
+Filename	WUB_VD06_S237_L003_R2_001.fastq.gz	WUB_VD06_S237_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD06_S237_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD06_S237_L003_R2_001_fastqc
+Total Sequences	10279425	WUB_VD06_S237_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD06_S237_L003_R2_001_fastqc
+Sequence length	151	WUB_VD06_S237_L003_R2_001_fastqc
+%GC	63	WUB_VD06_S237_L003_R2_001_fastqc
+Filename	WUB_VD07_S185_L003_R1_001.fastq.gz	WUB_VD07_S185_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD07_S185_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD07_S185_L003_R1_001_fastqc
+Total Sequences	10299937	WUB_VD07_S185_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD07_S185_L003_R1_001_fastqc
+Sequence length	151	WUB_VD07_S185_L003_R1_001_fastqc
+%GC	61	WUB_VD07_S185_L003_R1_001_fastqc
+Filename	WUB_VD07_S185_L003_R2_001.fastq.gz	WUB_VD07_S185_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD07_S185_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD07_S185_L003_R2_001_fastqc
+Total Sequences	10299937	WUB_VD07_S185_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD07_S185_L003_R2_001_fastqc
+Sequence length	151	WUB_VD07_S185_L003_R2_001_fastqc
+%GC	61	WUB_VD07_S185_L003_R2_001_fastqc
+Filename	WUB_VD08_S186_L003_R1_001.fastq.gz	WUB_VD08_S186_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD08_S186_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD08_S186_L003_R1_001_fastqc
+Total Sequences	9148604	WUB_VD08_S186_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD08_S186_L003_R1_001_fastqc
+Sequence length	151	WUB_VD08_S186_L003_R1_001_fastqc
+%GC	62	WUB_VD08_S186_L003_R1_001_fastqc
+Filename	WUB_VD08_S186_L003_R2_001.fastq.gz	WUB_VD08_S186_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD08_S186_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD08_S186_L003_R2_001_fastqc
+Total Sequences	9148604	WUB_VD08_S186_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD08_S186_L003_R2_001_fastqc
+Sequence length	151	WUB_VD08_S186_L003_R2_001_fastqc
+%GC	62	WUB_VD08_S186_L003_R2_001_fastqc
+Filename	WUB_VD09_S187_L003_R1_001.fastq.gz	WUB_VD09_S187_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD09_S187_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD09_S187_L003_R1_001_fastqc
+Total Sequences	9371376	WUB_VD09_S187_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD09_S187_L003_R1_001_fastqc
+Sequence length	151	WUB_VD09_S187_L003_R1_001_fastqc
+%GC	61	WUB_VD09_S187_L003_R1_001_fastqc
+Filename	WUB_VD09_S187_L003_R2_001.fastq.gz	WUB_VD09_S187_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD09_S187_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD09_S187_L003_R2_001_fastqc
+Total Sequences	9371376	WUB_VD09_S187_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD09_S187_L003_R2_001_fastqc
+Sequence length	151	WUB_VD09_S187_L003_R2_001_fastqc
+%GC	61	WUB_VD09_S187_L003_R2_001_fastqc
+Filename	WUB_VD10_S188_L003_R1_001.fastq.gz	WUB_VD10_S188_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD10_S188_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD10_S188_L003_R1_001_fastqc
+Total Sequences	9715889	WUB_VD10_S188_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD10_S188_L003_R1_001_fastqc
+Sequence length	151	WUB_VD10_S188_L003_R1_001_fastqc
+%GC	62	WUB_VD10_S188_L003_R1_001_fastqc
+Filename	WUB_VD10_S188_L003_R2_001.fastq.gz	WUB_VD10_S188_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD10_S188_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD10_S188_L003_R2_001_fastqc
+Total Sequences	9715889	WUB_VD10_S188_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD10_S188_L003_R2_001_fastqc
+Sequence length	151	WUB_VD10_S188_L003_R2_001_fastqc
+%GC	62	WUB_VD10_S188_L003_R2_001_fastqc
+Filename	WUB_VD11_S189_L003_R1_001.fastq.gz	WUB_VD11_S189_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD11_S189_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD11_S189_L003_R1_001_fastqc
+Total Sequences	10752406	WUB_VD11_S189_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD11_S189_L003_R1_001_fastqc
+Sequence length	151	WUB_VD11_S189_L003_R1_001_fastqc
+%GC	61	WUB_VD11_S189_L003_R1_001_fastqc
+Filename	WUB_VD11_S189_L003_R2_001.fastq.gz	WUB_VD11_S189_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD11_S189_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD11_S189_L003_R2_001_fastqc
+Total Sequences	10752406	WUB_VD11_S189_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD11_S189_L003_R2_001_fastqc
+Sequence length	151	WUB_VD11_S189_L003_R2_001_fastqc
+%GC	60	WUB_VD11_S189_L003_R2_001_fastqc
+Filename	WUB_VD12_S190_L003_R1_001.fastq.gz	WUB_VD12_S190_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD12_S190_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD12_S190_L003_R1_001_fastqc
+Total Sequences	10735521	WUB_VD12_S190_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD12_S190_L003_R1_001_fastqc
+Sequence length	151	WUB_VD12_S190_L003_R1_001_fastqc
+%GC	62	WUB_VD12_S190_L003_R1_001_fastqc
+Filename	WUB_VD12_S190_L003_R2_001.fastq.gz	WUB_VD12_S190_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD12_S190_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD12_S190_L003_R2_001_fastqc
+Total Sequences	10735521	WUB_VD12_S190_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD12_S190_L003_R2_001_fastqc
+Sequence length	151	WUB_VD12_S190_L003_R2_001_fastqc
+%GC	61	WUB_VD12_S190_L003_R2_001_fastqc
+Filename	WUB_VD13_S191_L003_R1_001.fastq.gz	WUB_VD13_S191_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD13_S191_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD13_S191_L003_R1_001_fastqc
+Total Sequences	10081414	WUB_VD13_S191_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD13_S191_L003_R1_001_fastqc
+Sequence length	151	WUB_VD13_S191_L003_R1_001_fastqc
+%GC	61	WUB_VD13_S191_L003_R1_001_fastqc
+Filename	WUB_VD13_S191_L003_R2_001.fastq.gz	WUB_VD13_S191_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD13_S191_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD13_S191_L003_R2_001_fastqc
+Total Sequences	10081414	WUB_VD13_S191_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD13_S191_L003_R2_001_fastqc
+Sequence length	151	WUB_VD13_S191_L003_R2_001_fastqc
+%GC	61	WUB_VD13_S191_L003_R2_001_fastqc
+Filename	WUB_VD14_S192_L003_R1_001.fastq.gz	WUB_VD14_S192_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD14_S192_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD14_S192_L003_R1_001_fastqc
+Total Sequences	9506100	WUB_VD14_S192_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD14_S192_L003_R1_001_fastqc
+Sequence length	151	WUB_VD14_S192_L003_R1_001_fastqc
+%GC	62	WUB_VD14_S192_L003_R1_001_fastqc
+Filename	WUB_VD14_S192_L003_R2_001.fastq.gz	WUB_VD14_S192_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD14_S192_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD14_S192_L003_R2_001_fastqc
+Total Sequences	9506100	WUB_VD14_S192_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD14_S192_L003_R2_001_fastqc
+Sequence length	151	WUB_VD14_S192_L003_R2_001_fastqc
+%GC	61	WUB_VD14_S192_L003_R2_001_fastqc
+Filename	WUB_VD15_S193_L003_R1_001.fastq.gz	WUB_VD15_S193_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD15_S193_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD15_S193_L003_R1_001_fastqc
+Total Sequences	9054519	WUB_VD15_S193_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD15_S193_L003_R1_001_fastqc
+Sequence length	151	WUB_VD15_S193_L003_R1_001_fastqc
+%GC	61	WUB_VD15_S193_L003_R1_001_fastqc
+Filename	WUB_VD15_S193_L003_R2_001.fastq.gz	WUB_VD15_S193_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD15_S193_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD15_S193_L003_R2_001_fastqc
+Total Sequences	9054519	WUB_VD15_S193_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD15_S193_L003_R2_001_fastqc
+Sequence length	151	WUB_VD15_S193_L003_R2_001_fastqc
+%GC	61	WUB_VD15_S193_L003_R2_001_fastqc
+Filename	WUB_VD16_S194_L003_R1_001.fastq.gz	WUB_VD16_S194_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD16_S194_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD16_S194_L003_R1_001_fastqc
+Total Sequences	9867797	WUB_VD16_S194_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD16_S194_L003_R1_001_fastqc
+Sequence length	151	WUB_VD16_S194_L003_R1_001_fastqc
+%GC	62	WUB_VD16_S194_L003_R1_001_fastqc
+Filename	WUB_VD16_S194_L003_R2_001.fastq.gz	WUB_VD16_S194_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD16_S194_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD16_S194_L003_R2_001_fastqc
+Total Sequences	9867797	WUB_VD16_S194_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD16_S194_L003_R2_001_fastqc
+Sequence length	151	WUB_VD16_S194_L003_R2_001_fastqc
+%GC	62	WUB_VD16_S194_L003_R2_001_fastqc
+Filename	WUB_VD17_S195_L003_R1_001.fastq.gz	WUB_VD17_S195_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD17_S195_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD17_S195_L003_R1_001_fastqc
+Total Sequences	10791277	WUB_VD17_S195_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD17_S195_L003_R1_001_fastqc
+Sequence length	151	WUB_VD17_S195_L003_R1_001_fastqc
+%GC	62	WUB_VD17_S195_L003_R1_001_fastqc
+Filename	WUB_VD17_S195_L003_R2_001.fastq.gz	WUB_VD17_S195_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD17_S195_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD17_S195_L003_R2_001_fastqc
+Total Sequences	10791277	WUB_VD17_S195_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD17_S195_L003_R2_001_fastqc
+Sequence length	151	WUB_VD17_S195_L003_R2_001_fastqc
+%GC	62	WUB_VD17_S195_L003_R2_001_fastqc
+Filename	WUB_VD18_S196_L003_R1_001.fastq.gz	WUB_VD18_S196_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD18_S196_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD18_S196_L003_R1_001_fastqc
+Total Sequences	11056512	WUB_VD18_S196_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD18_S196_L003_R1_001_fastqc
+Sequence length	151	WUB_VD18_S196_L003_R1_001_fastqc
+%GC	62	WUB_VD18_S196_L003_R1_001_fastqc
+Filename	WUB_VD18_S196_L003_R2_001.fastq.gz	WUB_VD18_S196_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD18_S196_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD18_S196_L003_R2_001_fastqc
+Total Sequences	11056512	WUB_VD18_S196_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD18_S196_L003_R2_001_fastqc
+Sequence length	151	WUB_VD18_S196_L003_R2_001_fastqc
+%GC	61	WUB_VD18_S196_L003_R2_001_fastqc
+Filename	WUB_VD19_S197_L003_R1_001.fastq.gz	WUB_VD19_S197_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD19_S197_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD19_S197_L003_R1_001_fastqc
+Total Sequences	8770793	WUB_VD19_S197_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD19_S197_L003_R1_001_fastqc
+Sequence length	151	WUB_VD19_S197_L003_R1_001_fastqc
+%GC	62	WUB_VD19_S197_L003_R1_001_fastqc
+Filename	WUB_VD19_S197_L003_R2_001.fastq.gz	WUB_VD19_S197_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD19_S197_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD19_S197_L003_R2_001_fastqc
+Total Sequences	8770793	WUB_VD19_S197_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD19_S197_L003_R2_001_fastqc
+Sequence length	151	WUB_VD19_S197_L003_R2_001_fastqc
+%GC	62	WUB_VD19_S197_L003_R2_001_fastqc
+Filename	WUB_VD20_S198_L003_R1_001.fastq.gz	WUB_VD20_S198_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD20_S198_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD20_S198_L003_R1_001_fastqc
+Total Sequences	14755756	WUB_VD20_S198_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD20_S198_L003_R1_001_fastqc
+Sequence length	151	WUB_VD20_S198_L003_R1_001_fastqc
+%GC	62	WUB_VD20_S198_L003_R1_001_fastqc
+Filename	WUB_VD20_S198_L003_R2_001.fastq.gz	WUB_VD20_S198_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD20_S198_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD20_S198_L003_R2_001_fastqc
+Total Sequences	14755756	WUB_VD20_S198_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD20_S198_L003_R2_001_fastqc
+Sequence length	151	WUB_VD20_S198_L003_R2_001_fastqc
+%GC	62	WUB_VD20_S198_L003_R2_001_fastqc
+Filename	WUB_VD21_S199_L003_R1_001.fastq.gz	WUB_VD21_S199_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD21_S199_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD21_S199_L003_R1_001_fastqc
+Total Sequences	9712624	WUB_VD21_S199_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD21_S199_L003_R1_001_fastqc
+Sequence length	151	WUB_VD21_S199_L003_R1_001_fastqc
+%GC	61	WUB_VD21_S199_L003_R1_001_fastqc
+Filename	WUB_VD21_S199_L003_R2_001.fastq.gz	WUB_VD21_S199_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD21_S199_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD21_S199_L003_R2_001_fastqc
+Total Sequences	9712624	WUB_VD21_S199_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD21_S199_L003_R2_001_fastqc
+Sequence length	151	WUB_VD21_S199_L003_R2_001_fastqc
+%GC	61	WUB_VD21_S199_L003_R2_001_fastqc
+Filename	WUB_VD22_S200_L003_R1_001.fastq.gz	WUB_VD22_S200_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD22_S200_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD22_S200_L003_R1_001_fastqc
+Total Sequences	8881789	WUB_VD22_S200_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD22_S200_L003_R1_001_fastqc
+Sequence length	151	WUB_VD22_S200_L003_R1_001_fastqc
+%GC	62	WUB_VD22_S200_L003_R1_001_fastqc
+Filename	WUB_VD22_S200_L003_R2_001.fastq.gz	WUB_VD22_S200_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD22_S200_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD22_S200_L003_R2_001_fastqc
+Total Sequences	8881789	WUB_VD22_S200_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD22_S200_L003_R2_001_fastqc
+Sequence length	151	WUB_VD22_S200_L003_R2_001_fastqc
+%GC	61	WUB_VD22_S200_L003_R2_001_fastqc
+Filename	WUB_VD23_S201_L003_R1_001.fastq.gz	WUB_VD23_S201_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD23_S201_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD23_S201_L003_R1_001_fastqc
+Total Sequences	9448260	WUB_VD23_S201_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD23_S201_L003_R1_001_fastqc
+Sequence length	151	WUB_VD23_S201_L003_R1_001_fastqc
+%GC	61	WUB_VD23_S201_L003_R1_001_fastqc
+Filename	WUB_VD23_S201_L003_R2_001.fastq.gz	WUB_VD23_S201_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD23_S201_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD23_S201_L003_R2_001_fastqc
+Total Sequences	9448260	WUB_VD23_S201_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD23_S201_L003_R2_001_fastqc
+Sequence length	151	WUB_VD23_S201_L003_R2_001_fastqc
+%GC	61	WUB_VD23_S201_L003_R2_001_fastqc
+Filename	WUB_VD24_S202_L003_R1_001.fastq.gz	WUB_VD24_S202_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD24_S202_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD24_S202_L003_R1_001_fastqc
+Total Sequences	8719173	WUB_VD24_S202_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD24_S202_L003_R1_001_fastqc
+Sequence length	151	WUB_VD24_S202_L003_R1_001_fastqc
+%GC	62	WUB_VD24_S202_L003_R1_001_fastqc
+Filename	WUB_VD24_S202_L003_R2_001.fastq.gz	WUB_VD24_S202_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD24_S202_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD24_S202_L003_R2_001_fastqc
+Total Sequences	8719173	WUB_VD24_S202_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD24_S202_L003_R2_001_fastqc
+Sequence length	151	WUB_VD24_S202_L003_R2_001_fastqc
+%GC	61	WUB_VD24_S202_L003_R2_001_fastqc
+Filename	WUB_VD25_S203_L003_R1_001.fastq.gz	WUB_VD25_S203_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD25_S203_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD25_S203_L003_R1_001_fastqc
+Total Sequences	10162972	WUB_VD25_S203_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD25_S203_L003_R1_001_fastqc
+Sequence length	151	WUB_VD25_S203_L003_R1_001_fastqc
+%GC	62	WUB_VD25_S203_L003_R1_001_fastqc
+Filename	WUB_VD25_S203_L003_R2_001.fastq.gz	WUB_VD25_S203_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD25_S203_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD25_S203_L003_R2_001_fastqc
+Total Sequences	10162972	WUB_VD25_S203_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD25_S203_L003_R2_001_fastqc
+Sequence length	151	WUB_VD25_S203_L003_R2_001_fastqc
+%GC	61	WUB_VD25_S203_L003_R2_001_fastqc
+Filename	WUB_VD26_S204_L003_R1_001.fastq.gz	WUB_VD26_S204_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD26_S204_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD26_S204_L003_R1_001_fastqc
+Total Sequences	10565156	WUB_VD26_S204_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD26_S204_L003_R1_001_fastqc
+Sequence length	151	WUB_VD26_S204_L003_R1_001_fastqc
+%GC	61	WUB_VD26_S204_L003_R1_001_fastqc
+Filename	WUB_VD26_S204_L003_R2_001.fastq.gz	WUB_VD26_S204_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD26_S204_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD26_S204_L003_R2_001_fastqc
+Total Sequences	10565156	WUB_VD26_S204_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD26_S204_L003_R2_001_fastqc
+Sequence length	151	WUB_VD26_S204_L003_R2_001_fastqc
+%GC	61	WUB_VD26_S204_L003_R2_001_fastqc
+Filename	WUB_VD27_S205_L003_R1_001.fastq.gz	WUB_VD27_S205_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD27_S205_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD27_S205_L003_R1_001_fastqc
+Total Sequences	9331244	WUB_VD27_S205_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD27_S205_L003_R1_001_fastqc
+Sequence length	151	WUB_VD27_S205_L003_R1_001_fastqc
+%GC	61	WUB_VD27_S205_L003_R1_001_fastqc
+Filename	WUB_VD27_S205_L003_R2_001.fastq.gz	WUB_VD27_S205_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD27_S205_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD27_S205_L003_R2_001_fastqc
+Total Sequences	9331244	WUB_VD27_S205_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD27_S205_L003_R2_001_fastqc
+Sequence length	151	WUB_VD27_S205_L003_R2_001_fastqc
+%GC	61	WUB_VD27_S205_L003_R2_001_fastqc
+Filename	WUB_VD28_S227_L003_R1_001.fastq.gz	WUB_VD28_S227_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD28_S227_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD28_S227_L003_R1_001_fastqc
+Total Sequences	8365829	WUB_VD28_S227_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD28_S227_L003_R1_001_fastqc
+Sequence length	151	WUB_VD28_S227_L003_R1_001_fastqc
+%GC	61	WUB_VD28_S227_L003_R1_001_fastqc
+Filename	WUB_VD28_S227_L003_R2_001.fastq.gz	WUB_VD28_S227_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD28_S227_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD28_S227_L003_R2_001_fastqc
+Total Sequences	8365829	WUB_VD28_S227_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD28_S227_L003_R2_001_fastqc
+Sequence length	151	WUB_VD28_S227_L003_R2_001_fastqc
+%GC	60	WUB_VD28_S227_L003_R2_001_fastqc
+Filename	WUB_VD29_S206_L003_R1_001.fastq.gz	WUB_VD29_S206_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD29_S206_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD29_S206_L003_R1_001_fastqc
+Total Sequences	9236191	WUB_VD29_S206_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD29_S206_L003_R1_001_fastqc
+Sequence length	151	WUB_VD29_S206_L003_R1_001_fastqc
+%GC	62	WUB_VD29_S206_L003_R1_001_fastqc
+Filename	WUB_VD29_S206_L003_R2_001.fastq.gz	WUB_VD29_S206_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD29_S206_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD29_S206_L003_R2_001_fastqc
+Total Sequences	9236191	WUB_VD29_S206_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD29_S206_L003_R2_001_fastqc
+Sequence length	151	WUB_VD29_S206_L003_R2_001_fastqc
+%GC	62	WUB_VD29_S206_L003_R2_001_fastqc
+Filename	WUB_VD30_S228_L003_R1_001.fastq.gz	WUB_VD30_S228_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD30_S228_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD30_S228_L003_R1_001_fastqc
+Total Sequences	8839041	WUB_VD30_S228_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD30_S228_L003_R1_001_fastqc
+Sequence length	151	WUB_VD30_S228_L003_R1_001_fastqc
+%GC	61	WUB_VD30_S228_L003_R1_001_fastqc
+Filename	WUB_VD30_S228_L003_R2_001.fastq.gz	WUB_VD30_S228_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD30_S228_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD30_S228_L003_R2_001_fastqc
+Total Sequences	8839041	WUB_VD30_S228_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD30_S228_L003_R2_001_fastqc
+Sequence length	151	WUB_VD30_S228_L003_R2_001_fastqc
+%GC	61	WUB_VD30_S228_L003_R2_001_fastqc
+Filename	WUB_VD31_S207_L003_R1_001.fastq.gz	WUB_VD31_S207_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD31_S207_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD31_S207_L003_R1_001_fastqc
+Total Sequences	11815134	WUB_VD31_S207_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD31_S207_L003_R1_001_fastqc
+Sequence length	151	WUB_VD31_S207_L003_R1_001_fastqc
+%GC	61	WUB_VD31_S207_L003_R1_001_fastqc
+Filename	WUB_VD31_S207_L003_R2_001.fastq.gz	WUB_VD31_S207_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD31_S207_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD31_S207_L003_R2_001_fastqc
+Total Sequences	11815134	WUB_VD31_S207_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD31_S207_L003_R2_001_fastqc
+Sequence length	151	WUB_VD31_S207_L003_R2_001_fastqc
+%GC	61	WUB_VD31_S207_L003_R2_001_fastqc
+Filename	WUB_VD32_S208_L003_R1_001.fastq.gz	WUB_VD32_S208_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD32_S208_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD32_S208_L003_R1_001_fastqc
+Total Sequences	9572185	WUB_VD32_S208_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD32_S208_L003_R1_001_fastqc
+Sequence length	151	WUB_VD32_S208_L003_R1_001_fastqc
+%GC	61	WUB_VD32_S208_L003_R1_001_fastqc
+Filename	WUB_VD32_S208_L003_R2_001.fastq.gz	WUB_VD32_S208_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD32_S208_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD32_S208_L003_R2_001_fastqc
+Total Sequences	9572185	WUB_VD32_S208_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD32_S208_L003_R2_001_fastqc
+Sequence length	151	WUB_VD32_S208_L003_R2_001_fastqc
+%GC	61	WUB_VD32_S208_L003_R2_001_fastqc
+Filename	WUB_VD33_S209_L003_R1_001.fastq.gz	WUB_VD33_S209_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD33_S209_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD33_S209_L003_R1_001_fastqc
+Total Sequences	10068717	WUB_VD33_S209_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD33_S209_L003_R1_001_fastqc
+Sequence length	151	WUB_VD33_S209_L003_R1_001_fastqc
+%GC	61	WUB_VD33_S209_L003_R1_001_fastqc
+Filename	WUB_VD33_S209_L003_R2_001.fastq.gz	WUB_VD33_S209_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD33_S209_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD33_S209_L003_R2_001_fastqc
+Total Sequences	10068717	WUB_VD33_S209_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD33_S209_L003_R2_001_fastqc
+Sequence length	151	WUB_VD33_S209_L003_R2_001_fastqc
+%GC	61	WUB_VD33_S209_L003_R2_001_fastqc
+Filename	WUB_VD34_S210_L003_R1_001.fastq.gz	WUB_VD34_S210_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD34_S210_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD34_S210_L003_R1_001_fastqc
+Total Sequences	8470416	WUB_VD34_S210_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD34_S210_L003_R1_001_fastqc
+Sequence length	151	WUB_VD34_S210_L003_R1_001_fastqc
+%GC	61	WUB_VD34_S210_L003_R1_001_fastqc
+Filename	WUB_VD34_S210_L003_R2_001.fastq.gz	WUB_VD34_S210_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD34_S210_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD34_S210_L003_R2_001_fastqc
+Total Sequences	8470416	WUB_VD34_S210_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD34_S210_L003_R2_001_fastqc
+Sequence length	151	WUB_VD34_S210_L003_R2_001_fastqc
+%GC	61	WUB_VD34_S210_L003_R2_001_fastqc
+Filename	WUB_VD35_S229_L003_R1_001.fastq.gz	WUB_VD35_S229_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD35_S229_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD35_S229_L003_R1_001_fastqc
+Total Sequences	8879522	WUB_VD35_S229_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD35_S229_L003_R1_001_fastqc
+Sequence length	151	WUB_VD35_S229_L003_R1_001_fastqc
+%GC	61	WUB_VD35_S229_L003_R1_001_fastqc
+Filename	WUB_VD35_S229_L003_R2_001.fastq.gz	WUB_VD35_S229_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD35_S229_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD35_S229_L003_R2_001_fastqc
+Total Sequences	8879522	WUB_VD35_S229_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD35_S229_L003_R2_001_fastqc
+Sequence length	151	WUB_VD35_S229_L003_R2_001_fastqc
+%GC	61	WUB_VD35_S229_L003_R2_001_fastqc
+Filename	WUB_VD36_S211_L003_R1_001.fastq.gz	WUB_VD36_S211_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD36_S211_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD36_S211_L003_R1_001_fastqc
+Total Sequences	9230694	WUB_VD36_S211_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD36_S211_L003_R1_001_fastqc
+Sequence length	151	WUB_VD36_S211_L003_R1_001_fastqc
+%GC	62	WUB_VD36_S211_L003_R1_001_fastqc
+Filename	WUB_VD36_S211_L003_R2_001.fastq.gz	WUB_VD36_S211_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD36_S211_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD36_S211_L003_R2_001_fastqc
+Total Sequences	9230694	WUB_VD36_S211_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD36_S211_L003_R2_001_fastqc
+Sequence length	151	WUB_VD36_S211_L003_R2_001_fastqc
+%GC	61	WUB_VD36_S211_L003_R2_001_fastqc
+Filename	WUB_VD37_S212_L003_R1_001.fastq.gz	WUB_VD37_S212_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD37_S212_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD37_S212_L003_R1_001_fastqc
+Total Sequences	11811262	WUB_VD37_S212_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD37_S212_L003_R1_001_fastqc
+Sequence length	151	WUB_VD37_S212_L003_R1_001_fastqc
+%GC	62	WUB_VD37_S212_L003_R1_001_fastqc
+Filename	WUB_VD37_S212_L003_R2_001.fastq.gz	WUB_VD37_S212_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD37_S212_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD37_S212_L003_R2_001_fastqc
+Total Sequences	11811262	WUB_VD37_S212_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD37_S212_L003_R2_001_fastqc
+Sequence length	151	WUB_VD37_S212_L003_R2_001_fastqc
+%GC	61	WUB_VD37_S212_L003_R2_001_fastqc
+Filename	WUB_VD38_S213_L003_R1_001.fastq.gz	WUB_VD38_S213_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD38_S213_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD38_S213_L003_R1_001_fastqc
+Total Sequences	8175386	WUB_VD38_S213_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD38_S213_L003_R1_001_fastqc
+Sequence length	151	WUB_VD38_S213_L003_R1_001_fastqc
+%GC	61	WUB_VD38_S213_L003_R1_001_fastqc
+Filename	WUB_VD38_S213_L003_R2_001.fastq.gz	WUB_VD38_S213_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD38_S213_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD38_S213_L003_R2_001_fastqc
+Total Sequences	8175386	WUB_VD38_S213_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD38_S213_L003_R2_001_fastqc
+Sequence length	151	WUB_VD38_S213_L003_R2_001_fastqc
+%GC	61	WUB_VD38_S213_L003_R2_001_fastqc
+Filename	WUB_VD39_S214_L003_R1_001.fastq.gz	WUB_VD39_S214_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD39_S214_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD39_S214_L003_R1_001_fastqc
+Total Sequences	8955830	WUB_VD39_S214_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD39_S214_L003_R1_001_fastqc
+Sequence length	151	WUB_VD39_S214_L003_R1_001_fastqc
+%GC	62	WUB_VD39_S214_L003_R1_001_fastqc
+Filename	WUB_VD39_S214_L003_R2_001.fastq.gz	WUB_VD39_S214_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD39_S214_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD39_S214_L003_R2_001_fastqc
+Total Sequences	8955830	WUB_VD39_S214_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD39_S214_L003_R2_001_fastqc
+Sequence length	151	WUB_VD39_S214_L003_R2_001_fastqc
+%GC	62	WUB_VD39_S214_L003_R2_001_fastqc
+Filename	WUB_VD40_S215_L003_R1_001.fastq.gz	WUB_VD40_S215_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD40_S215_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD40_S215_L003_R1_001_fastqc
+Total Sequences	8532957	WUB_VD40_S215_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD40_S215_L003_R1_001_fastqc
+Sequence length	151	WUB_VD40_S215_L003_R1_001_fastqc
+%GC	62	WUB_VD40_S215_L003_R1_001_fastqc
+Filename	WUB_VD40_S215_L003_R2_001.fastq.gz	WUB_VD40_S215_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD40_S215_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD40_S215_L003_R2_001_fastqc
+Total Sequences	8532957	WUB_VD40_S215_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD40_S215_L003_R2_001_fastqc
+Sequence length	151	WUB_VD40_S215_L003_R2_001_fastqc
+%GC	62	WUB_VD40_S215_L003_R2_001_fastqc
+Filename	WUB_VD41_S216_L003_R1_001.fastq.gz	WUB_VD41_S216_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD41_S216_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD41_S216_L003_R1_001_fastqc
+Total Sequences	8963162	WUB_VD41_S216_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD41_S216_L003_R1_001_fastqc
+Sequence length	151	WUB_VD41_S216_L003_R1_001_fastqc
+%GC	62	WUB_VD41_S216_L003_R1_001_fastqc
+Filename	WUB_VD41_S216_L003_R2_001.fastq.gz	WUB_VD41_S216_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD41_S216_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD41_S216_L003_R2_001_fastqc
+Total Sequences	8963162	WUB_VD41_S216_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD41_S216_L003_R2_001_fastqc
+Sequence length	151	WUB_VD41_S216_L003_R2_001_fastqc
+%GC	62	WUB_VD41_S216_L003_R2_001_fastqc
+Filename	WUB_VD42_S217_L003_R1_001.fastq.gz	WUB_VD42_S217_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD42_S217_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD42_S217_L003_R1_001_fastqc
+Total Sequences	8396098	WUB_VD42_S217_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD42_S217_L003_R1_001_fastqc
+Sequence length	151	WUB_VD42_S217_L003_R1_001_fastqc
+%GC	62	WUB_VD42_S217_L003_R1_001_fastqc
+Filename	WUB_VD42_S217_L003_R2_001.fastq.gz	WUB_VD42_S217_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD42_S217_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD42_S217_L003_R2_001_fastqc
+Total Sequences	8396098	WUB_VD42_S217_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD42_S217_L003_R2_001_fastqc
+Sequence length	151	WUB_VD42_S217_L003_R2_001_fastqc
+%GC	62	WUB_VD42_S217_L003_R2_001_fastqc
+Filename	WUB_VD43_S238_L003_R1_001.fastq.gz	WUB_VD43_S238_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD43_S238_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD43_S238_L003_R1_001_fastqc
+Total Sequences	8254089	WUB_VD43_S238_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD43_S238_L003_R1_001_fastqc
+Sequence length	151	WUB_VD43_S238_L003_R1_001_fastqc
+%GC	62	WUB_VD43_S238_L003_R1_001_fastqc
+Filename	WUB_VD43_S238_L003_R2_001.fastq.gz	WUB_VD43_S238_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD43_S238_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD43_S238_L003_R2_001_fastqc
+Total Sequences	8254089	WUB_VD43_S238_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD43_S238_L003_R2_001_fastqc
+Sequence length	151	WUB_VD43_S238_L003_R2_001_fastqc
+%GC	62	WUB_VD43_S238_L003_R2_001_fastqc
+Filename	WUB_VD44_S230_L003_R1_001.fastq.gz	WUB_VD44_S230_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD44_S230_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD44_S230_L003_R1_001_fastqc
+Total Sequences	8142570	WUB_VD44_S230_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD44_S230_L003_R1_001_fastqc
+Sequence length	151	WUB_VD44_S230_L003_R1_001_fastqc
+%GC	63	WUB_VD44_S230_L003_R1_001_fastqc
+Filename	WUB_VD44_S230_L003_R2_001.fastq.gz	WUB_VD44_S230_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD44_S230_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD44_S230_L003_R2_001_fastqc
+Total Sequences	8142570	WUB_VD44_S230_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD44_S230_L003_R2_001_fastqc
+Sequence length	151	WUB_VD44_S230_L003_R2_001_fastqc
+%GC	63	WUB_VD44_S230_L003_R2_001_fastqc
+Filename	WUB_VD45_S231_L003_R1_001.fastq.gz	WUB_VD45_S231_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD45_S231_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD45_S231_L003_R1_001_fastqc
+Total Sequences	8316684	WUB_VD45_S231_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD45_S231_L003_R1_001_fastqc
+Sequence length	151	WUB_VD45_S231_L003_R1_001_fastqc
+%GC	63	WUB_VD45_S231_L003_R1_001_fastqc
+Filename	WUB_VD45_S231_L003_R2_001.fastq.gz	WUB_VD45_S231_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD45_S231_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD45_S231_L003_R2_001_fastqc
+Total Sequences	8316684	WUB_VD45_S231_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD45_S231_L003_R2_001_fastqc
+Sequence length	151	WUB_VD45_S231_L003_R2_001_fastqc
+%GC	63	WUB_VD45_S231_L003_R2_001_fastqc
+Filename	WUB_VD46_S239_L003_R1_001.fastq.gz	WUB_VD46_S239_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD46_S239_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD46_S239_L003_R1_001_fastqc
+Total Sequences	8356537	WUB_VD46_S239_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD46_S239_L003_R1_001_fastqc
+Sequence length	151	WUB_VD46_S239_L003_R1_001_fastqc
+%GC	64	WUB_VD46_S239_L003_R1_001_fastqc
+Filename	WUB_VD46_S239_L003_R2_001.fastq.gz	WUB_VD46_S239_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD46_S239_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD46_S239_L003_R2_001_fastqc
+Total Sequences	8356537	WUB_VD46_S239_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD46_S239_L003_R2_001_fastqc
+Sequence length	151	WUB_VD46_S239_L003_R2_001_fastqc
+%GC	64	WUB_VD46_S239_L003_R2_001_fastqc
+Filename	WUB_VD47_S240_L003_R1_001.fastq.gz	WUB_VD47_S240_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD47_S240_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD47_S240_L003_R1_001_fastqc
+Total Sequences	10075876	WUB_VD47_S240_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD47_S240_L003_R1_001_fastqc
+Sequence length	151	WUB_VD47_S240_L003_R1_001_fastqc
+%GC	64	WUB_VD47_S240_L003_R1_001_fastqc
+Filename	WUB_VD47_S240_L003_R2_001.fastq.gz	WUB_VD47_S240_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD47_S240_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD47_S240_L003_R2_001_fastqc
+Total Sequences	10075876	WUB_VD47_S240_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD47_S240_L003_R2_001_fastqc
+Sequence length	151	WUB_VD47_S240_L003_R2_001_fastqc
+%GC	64	WUB_VD47_S240_L003_R2_001_fastqc
+Filename	WUB_VD48_S232_L003_R1_001.fastq.gz	WUB_VD48_S232_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VD48_S232_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD48_S232_L003_R1_001_fastqc
+Total Sequences	8794787	WUB_VD48_S232_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD48_S232_L003_R1_001_fastqc
+Sequence length	151	WUB_VD48_S232_L003_R1_001_fastqc
+%GC	63	WUB_VD48_S232_L003_R1_001_fastqc
+Filename	WUB_VD48_S232_L003_R2_001.fastq.gz	WUB_VD48_S232_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VD48_S232_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD48_S232_L003_R2_001_fastqc
+Total Sequences	8794787	WUB_VD48_S232_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VD48_S232_L003_R2_001_fastqc
+Sequence length	151	WUB_VD48_S232_L003_R2_001_fastqc
+%GC	63	WUB_VD48_S232_L003_R2_001_fastqc
+Filename	WUB_VN01_S173_L003_R1_001.fastq.gz	WUB_VN01_S173_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN01_S173_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN01_S173_L003_R1_001_fastqc
+Total Sequences	11594361	WUB_VN01_S173_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN01_S173_L003_R1_001_fastqc
+Sequence length	151	WUB_VN01_S173_L003_R1_001_fastqc
+%GC	65	WUB_VN01_S173_L003_R1_001_fastqc
+Filename	WUB_VN01_S173_L003_R2_001.fastq.gz	WUB_VN01_S173_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN01_S173_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN01_S173_L003_R2_001_fastqc
+Total Sequences	11594361	WUB_VN01_S173_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN01_S173_L003_R2_001_fastqc
+Sequence length	151	WUB_VN01_S173_L003_R2_001_fastqc
+%GC	65	WUB_VN01_S173_L003_R2_001_fastqc
+Filename	WUB_VN02_S174_L003_R1_001.fastq.gz	WUB_VN02_S174_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN02_S174_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN02_S174_L003_R1_001_fastqc
+Total Sequences	11635976	WUB_VN02_S174_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN02_S174_L003_R1_001_fastqc
+Sequence length	151	WUB_VN02_S174_L003_R1_001_fastqc
+%GC	65	WUB_VN02_S174_L003_R1_001_fastqc
+Filename	WUB_VN02_S174_L003_R2_001.fastq.gz	WUB_VN02_S174_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN02_S174_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN02_S174_L003_R2_001_fastqc
+Total Sequences	11635976	WUB_VN02_S174_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN02_S174_L003_R2_001_fastqc
+Sequence length	151	WUB_VN02_S174_L003_R2_001_fastqc
+%GC	65	WUB_VN02_S174_L003_R2_001_fastqc
+Filename	WUB_VN03_S175_L003_R1_001.fastq.gz	WUB_VN03_S175_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN03_S175_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN03_S175_L003_R1_001_fastqc
+Total Sequences	9197672	WUB_VN03_S175_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN03_S175_L003_R1_001_fastqc
+Sequence length	151	WUB_VN03_S175_L003_R1_001_fastqc
+%GC	65	WUB_VN03_S175_L003_R1_001_fastqc
+Filename	WUB_VN03_S175_L003_R2_001.fastq.gz	WUB_VN03_S175_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN03_S175_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN03_S175_L003_R2_001_fastqc
+Total Sequences	9197672	WUB_VN03_S175_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN03_S175_L003_R2_001_fastqc
+Sequence length	151	WUB_VN03_S175_L003_R2_001_fastqc
+%GC	65	WUB_VN03_S175_L003_R2_001_fastqc
+Filename	WUB_VN04_S176_L003_R1_001.fastq.gz	WUB_VN04_S176_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN04_S176_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN04_S176_L003_R1_001_fastqc
+Total Sequences	11932335	WUB_VN04_S176_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN04_S176_L003_R1_001_fastqc
+Sequence length	151	WUB_VN04_S176_L003_R1_001_fastqc
+%GC	64	WUB_VN04_S176_L003_R1_001_fastqc
+Filename	WUB_VN04_S176_L003_R2_001.fastq.gz	WUB_VN04_S176_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN04_S176_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN04_S176_L003_R2_001_fastqc
+Total Sequences	11932335	WUB_VN04_S176_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN04_S176_L003_R2_001_fastqc
+Sequence length	151	WUB_VN04_S176_L003_R2_001_fastqc
+%GC	64	WUB_VN04_S176_L003_R2_001_fastqc
+Filename	WUB_VN05_S177_L003_R1_001.fastq.gz	WUB_VN05_S177_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN05_S177_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN05_S177_L003_R1_001_fastqc
+Total Sequences	9288817	WUB_VN05_S177_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN05_S177_L003_R1_001_fastqc
+Sequence length	151	WUB_VN05_S177_L003_R1_001_fastqc
+%GC	63	WUB_VN05_S177_L003_R1_001_fastqc
+Filename	WUB_VN05_S177_L003_R2_001.fastq.gz	WUB_VN05_S177_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN05_S177_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN05_S177_L003_R2_001_fastqc
+Total Sequences	9288817	WUB_VN05_S177_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN05_S177_L003_R2_001_fastqc
+Sequence length	151	WUB_VN05_S177_L003_R2_001_fastqc
+%GC	63	WUB_VN05_S177_L003_R2_001_fastqc
+Filename	WUB_VN06_S178_L003_R1_001.fastq.gz	WUB_VN06_S178_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN06_S178_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN06_S178_L003_R1_001_fastqc
+Total Sequences	10982458	WUB_VN06_S178_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN06_S178_L003_R1_001_fastqc
+Sequence length	151	WUB_VN06_S178_L003_R1_001_fastqc
+%GC	64	WUB_VN06_S178_L003_R1_001_fastqc
+Filename	WUB_VN06_S178_L003_R2_001.fastq.gz	WUB_VN06_S178_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN06_S178_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN06_S178_L003_R2_001_fastqc
+Total Sequences	10982458	WUB_VN06_S178_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN06_S178_L003_R2_001_fastqc
+Sequence length	151	WUB_VN06_S178_L003_R2_001_fastqc
+%GC	64	WUB_VN06_S178_L003_R2_001_fastqc
+Filename	WUB_VN07_S179_L003_R1_001.fastq.gz	WUB_VN07_S179_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN07_S179_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN07_S179_L003_R1_001_fastqc
+Total Sequences	9892907	WUB_VN07_S179_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN07_S179_L003_R1_001_fastqc
+Sequence length	151	WUB_VN07_S179_L003_R1_001_fastqc
+%GC	61	WUB_VN07_S179_L003_R1_001_fastqc
+Filename	WUB_VN07_S179_L003_R2_001.fastq.gz	WUB_VN07_S179_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN07_S179_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN07_S179_L003_R2_001_fastqc
+Total Sequences	9892907	WUB_VN07_S179_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN07_S179_L003_R2_001_fastqc
+Sequence length	151	WUB_VN07_S179_L003_R2_001_fastqc
+%GC	61	WUB_VN07_S179_L003_R2_001_fastqc
+Filename	WUB_VN08_S180_L003_R1_001.fastq.gz	WUB_VN08_S180_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN08_S180_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN08_S180_L003_R1_001_fastqc
+Total Sequences	10300666	WUB_VN08_S180_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN08_S180_L003_R1_001_fastqc
+Sequence length	151	WUB_VN08_S180_L003_R1_001_fastqc
+%GC	63	WUB_VN08_S180_L003_R1_001_fastqc
+Filename	WUB_VN08_S180_L003_R2_001.fastq.gz	WUB_VN08_S180_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN08_S180_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN08_S180_L003_R2_001_fastqc
+Total Sequences	10300666	WUB_VN08_S180_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN08_S180_L003_R2_001_fastqc
+Sequence length	151	WUB_VN08_S180_L003_R2_001_fastqc
+%GC	63	WUB_VN08_S180_L003_R2_001_fastqc
+Filename	WUB_VN09_S181_L003_R1_001.fastq.gz	WUB_VN09_S181_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN09_S181_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN09_S181_L003_R1_001_fastqc
+Total Sequences	12338220	WUB_VN09_S181_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN09_S181_L003_R1_001_fastqc
+Sequence length	151	WUB_VN09_S181_L003_R1_001_fastqc
+%GC	62	WUB_VN09_S181_L003_R1_001_fastqc
+Filename	WUB_VN09_S181_L003_R2_001.fastq.gz	WUB_VN09_S181_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN09_S181_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN09_S181_L003_R2_001_fastqc
+Total Sequences	12338220	WUB_VN09_S181_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN09_S181_L003_R2_001_fastqc
+Sequence length	151	WUB_VN09_S181_L003_R2_001_fastqc
+%GC	62	WUB_VN09_S181_L003_R2_001_fastqc
+Filename	WUB_VN10_S182_L003_R1_001.fastq.gz	WUB_VN10_S182_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN10_S182_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN10_S182_L003_R1_001_fastqc
+Total Sequences	12345435	WUB_VN10_S182_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN10_S182_L003_R1_001_fastqc
+Sequence length	151	WUB_VN10_S182_L003_R1_001_fastqc
+%GC	63	WUB_VN10_S182_L003_R1_001_fastqc
+Filename	WUB_VN10_S182_L003_R2_001.fastq.gz	WUB_VN10_S182_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN10_S182_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN10_S182_L003_R2_001_fastqc
+Total Sequences	12345435	WUB_VN10_S182_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN10_S182_L003_R2_001_fastqc
+Sequence length	151	WUB_VN10_S182_L003_R2_001_fastqc
+%GC	63	WUB_VN10_S182_L003_R2_001_fastqc
+Filename	WUB_VN11_S183_L003_R1_001.fastq.gz	WUB_VN11_S183_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN11_S183_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN11_S183_L003_R1_001_fastqc
+Total Sequences	10909618	WUB_VN11_S183_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN11_S183_L003_R1_001_fastqc
+Sequence length	151	WUB_VN11_S183_L003_R1_001_fastqc
+%GC	62	WUB_VN11_S183_L003_R1_001_fastqc
+Filename	WUB_VN11_S183_L003_R2_001.fastq.gz	WUB_VN11_S183_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN11_S183_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN11_S183_L003_R2_001_fastqc
+Total Sequences	10909618	WUB_VN11_S183_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN11_S183_L003_R2_001_fastqc
+Sequence length	151	WUB_VN11_S183_L003_R2_001_fastqc
+%GC	62	WUB_VN11_S183_L003_R2_001_fastqc
+Filename	WUB_VN12_S184_L003_R1_001.fastq.gz	WUB_VN12_S184_L003_R1_001_fastqc
+File type	Conventional base calls	WUB_VN12_S184_L003_R1_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN12_S184_L003_R1_001_fastqc
+Total Sequences	12442777	WUB_VN12_S184_L003_R1_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN12_S184_L003_R1_001_fastqc
+Sequence length	151	WUB_VN12_S184_L003_R1_001_fastqc
+%GC	63	WUB_VN12_S184_L003_R1_001_fastqc
+Filename	WUB_VN12_S184_L003_R2_001.fastq.gz	WUB_VN12_S184_L003_R2_001_fastqc
+File type	Conventional base calls	WUB_VN12_S184_L003_R2_001_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN12_S184_L003_R2_001_fastqc
+Total Sequences	12442777	WUB_VN12_S184_L003_R2_001_fastqc
+Sequences flagged as poor quality	0	WUB_VN12_S184_L003_R2_001_fastqc
+Sequence length	151	WUB_VN12_S184_L003_R2_001_fastqc
+%GC	63	WUB_VN12_S184_L003_R2_001_fastqc

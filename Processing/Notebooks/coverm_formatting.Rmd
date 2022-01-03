@@ -1,0 +1,45 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+reformat.table <- function(x) {
+  covm <- read.table(x, header = T, sep = "\t") 
+  row.names(covm) <- covm[,1]
+  covm <- covm[,-1]
+  colnames(covm) <- str_extract(colnames(covm), "WU[AB]_\\w\\w\\d\\d") 
+  covm
+}
+
+covm.mean.75 <- reformat.table("../Data/coverm/all.good.75.mean.tsv")
+covm.mean <- reformat.table("../Data/coverm/all.good.mean.tsv")
+covm.tmean.75 <- reformat.table("../Data/coverm/all.good.75.tmean.tsv")
+covm.tmean <- reformat.table("../Data/coverm/all.good.tmean.tsv")
+covm.cf <- reformat.table("../Data/coverm/all.good.cf.tsv")
+covm.count <- reformat.table("../Data/coverm/all.good.count.tsv")
+```
+
+```{r}
+good.75 <- covm.mean.75>0
+
+covm.count.75 <- covm.count * good.75
+
+mapped.reads <- data.frame(SampleID = colnames(covm.count.75),
+                           MappedReads = colSums(covm.count.75))
+mapped.reads
+
+write.table(mapped.reads, "../Data/mapped_reads.tsv", sep = "\t", quote = F, row.names = F)
+```
+
+
+
+```{r}
+saveRDS(covm.mean.75, "../../Analysis/Data/all_good_covm_mean75.RDS")
+saveRDS(covm.tmean.75, "../../Analysis/Data/all_good_covm_tmean75.RDS")
+saveRDS(covm.count.75, "../../Analysis/Data/all_good_covm_count75.RDS")
+```

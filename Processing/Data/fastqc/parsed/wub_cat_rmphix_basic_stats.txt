@@ -1,0 +1,1541 @@
+Measure	Value	Library
+Filename	V01_DN_R1_rmphix.fq.gz	V01_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V01_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V01_DN_R1_rmphix_fastqc
+Total Sequences	40597866	V01_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V01_DN_R1_rmphix_fastqc
+Sequence length	50-151	V01_DN_R1_rmphix_fastqc
+%GC	60	V01_DN_R1_rmphix_fastqc
+Filename	V01_DN_R2_rmphix.fq.gz	V01_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V01_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V01_DN_R2_rmphix_fastqc
+Total Sequences	40597866	V01_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V01_DN_R2_rmphix_fastqc
+Sequence length	50-151	V01_DN_R2_rmphix_fastqc
+%GC	60	V01_DN_R2_rmphix_fastqc
+Filename	V03_DN_R1_rmphix.fq.gz	V03_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V03_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V03_DN_R1_rmphix_fastqc
+Total Sequences	37972189	V03_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V03_DN_R1_rmphix_fastqc
+Sequence length	50-151	V03_DN_R1_rmphix_fastqc
+%GC	60	V03_DN_R1_rmphix_fastqc
+Filename	V03_DN_R2_rmphix.fq.gz	V03_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V03_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V03_DN_R2_rmphix_fastqc
+Total Sequences	37972189	V03_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V03_DN_R2_rmphix_fastqc
+Sequence length	50-151	V03_DN_R2_rmphix_fastqc
+%GC	60	V03_DN_R2_rmphix_fastqc
+Filename	V05_DN_R1_rmphix.fq.gz	V05_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V05_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V05_DN_R1_rmphix_fastqc
+Total Sequences	27497208	V05_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V05_DN_R1_rmphix_fastqc
+Sequence length	50-151	V05_DN_R1_rmphix_fastqc
+%GC	59	V05_DN_R1_rmphix_fastqc
+Filename	V05_DN_R2_rmphix.fq.gz	V05_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V05_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V05_DN_R2_rmphix_fastqc
+Total Sequences	27497208	V05_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V05_DN_R2_rmphix_fastqc
+Sequence length	50-151	V05_DN_R2_rmphix_fastqc
+%GC	59	V05_DN_R2_rmphix_fastqc
+Filename	V09_DN_R1_rmphix.fq.gz	V09_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V09_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V09_DN_R1_rmphix_fastqc
+Total Sequences	28232921	V09_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V09_DN_R1_rmphix_fastqc
+Sequence length	50-151	V09_DN_R1_rmphix_fastqc
+%GC	59	V09_DN_R1_rmphix_fastqc
+Filename	V09_DN_R2_rmphix.fq.gz	V09_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V09_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V09_DN_R2_rmphix_fastqc
+Total Sequences	28232921	V09_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V09_DN_R2_rmphix_fastqc
+Sequence length	50-151	V09_DN_R2_rmphix_fastqc
+%GC	59	V09_DN_R2_rmphix_fastqc
+Filename	V10_DN_R1_rmphix.fq.gz	V10_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V10_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V10_DN_R1_rmphix_fastqc
+Total Sequences	28203014	V10_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V10_DN_R1_rmphix_fastqc
+Sequence length	50-151	V10_DN_R1_rmphix_fastqc
+%GC	59	V10_DN_R1_rmphix_fastqc
+Filename	V10_DN_R2_rmphix.fq.gz	V10_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V10_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V10_DN_R2_rmphix_fastqc
+Total Sequences	28203014	V10_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V10_DN_R2_rmphix_fastqc
+Sequence length	50-151	V10_DN_R2_rmphix_fastqc
+%GC	59	V10_DN_R2_rmphix_fastqc
+Filename	V11_DN_R1_rmphix.fq.gz	V11_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V11_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V11_DN_R1_rmphix_fastqc
+Total Sequences	26891293	V11_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V11_DN_R1_rmphix_fastqc
+Sequence length	50-151	V11_DN_R1_rmphix_fastqc
+%GC	60	V11_DN_R1_rmphix_fastqc
+Filename	V11_DN_R2_rmphix.fq.gz	V11_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V11_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V11_DN_R2_rmphix_fastqc
+Total Sequences	26891293	V11_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V11_DN_R2_rmphix_fastqc
+Sequence length	50-151	V11_DN_R2_rmphix_fastqc
+%GC	60	V11_DN_R2_rmphix_fastqc
+Filename	V17_DN_R1_rmphix.fq.gz	V17_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V17_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V17_DN_R1_rmphix_fastqc
+Total Sequences	28517540	V17_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V17_DN_R1_rmphix_fastqc
+Sequence length	50-151	V17_DN_R1_rmphix_fastqc
+%GC	58	V17_DN_R1_rmphix_fastqc
+Filename	V17_DN_R2_rmphix.fq.gz	V17_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V17_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V17_DN_R2_rmphix_fastqc
+Total Sequences	28517540	V17_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V17_DN_R2_rmphix_fastqc
+Sequence length	50-151	V17_DN_R2_rmphix_fastqc
+%GC	58	V17_DN_R2_rmphix_fastqc
+Filename	V19_DN_R1_rmphix.fq.gz	V19_DN_R1_rmphix_fastqc
+File type	Conventional base calls	V19_DN_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V19_DN_R1_rmphix_fastqc
+Total Sequences	26991961	V19_DN_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	V19_DN_R1_rmphix_fastqc
+Sequence length	50-151	V19_DN_R1_rmphix_fastqc
+%GC	57	V19_DN_R1_rmphix_fastqc
+Filename	V19_DN_R2_rmphix.fq.gz	V19_DN_R2_rmphix_fastqc
+File type	Conventional base calls	V19_DN_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	V19_DN_R2_rmphix_fastqc
+Total Sequences	26991961	V19_DN_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	V19_DN_R2_rmphix_fastqc
+Sequence length	50-151	V19_DN_R2_rmphix_fastqc
+%GC	58	V19_DN_R2_rmphix_fastqc
+Filename	WUB_TM01_R1_rmphix.fq.gz	WUB_TM01_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM01_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM01_R1_rmphix_fastqc
+Total Sequences	68488772	WUB_TM01_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM01_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM01_R1_rmphix_fastqc
+%GC	67	WUB_TM01_R1_rmphix_fastqc
+Filename	WUB_TM01_R2_rmphix.fq.gz	WUB_TM01_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM01_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM01_R2_rmphix_fastqc
+Total Sequences	68488772	WUB_TM01_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM01_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM01_R2_rmphix_fastqc
+%GC	67	WUB_TM01_R2_rmphix_fastqc
+Filename	WUB_TM02_R1_rmphix.fq.gz	WUB_TM02_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM02_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM02_R1_rmphix_fastqc
+Total Sequences	67166607	WUB_TM02_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM02_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM02_R1_rmphix_fastqc
+%GC	67	WUB_TM02_R1_rmphix_fastqc
+Filename	WUB_TM02_R2_rmphix.fq.gz	WUB_TM02_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM02_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM02_R2_rmphix_fastqc
+Total Sequences	67166607	WUB_TM02_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM02_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM02_R2_rmphix_fastqc
+%GC	67	WUB_TM02_R2_rmphix_fastqc
+Filename	WUB_TM03_R1_rmphix.fq.gz	WUB_TM03_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM03_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM03_R1_rmphix_fastqc
+Total Sequences	68296702	WUB_TM03_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM03_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM03_R1_rmphix_fastqc
+%GC	67	WUB_TM03_R1_rmphix_fastqc
+Filename	WUB_TM03_R2_rmphix.fq.gz	WUB_TM03_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM03_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM03_R2_rmphix_fastqc
+Total Sequences	68296702	WUB_TM03_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM03_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM03_R2_rmphix_fastqc
+%GC	67	WUB_TM03_R2_rmphix_fastqc
+Filename	WUB_TM04_R1_rmphix.fq.gz	WUB_TM04_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM04_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM04_R1_rmphix_fastqc
+Total Sequences	74640788	WUB_TM04_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM04_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM04_R1_rmphix_fastqc
+%GC	66	WUB_TM04_R1_rmphix_fastqc
+Filename	WUB_TM04_R2_rmphix.fq.gz	WUB_TM04_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM04_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM04_R2_rmphix_fastqc
+Total Sequences	74640788	WUB_TM04_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM04_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM04_R2_rmphix_fastqc
+%GC	66	WUB_TM04_R2_rmphix_fastqc
+Filename	WUB_TM05_R1_rmphix.fq.gz	WUB_TM05_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM05_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM05_R1_rmphix_fastqc
+Total Sequences	66901023	WUB_TM05_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM05_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM05_R1_rmphix_fastqc
+%GC	66	WUB_TM05_R1_rmphix_fastqc
+Filename	WUB_TM05_R2_rmphix.fq.gz	WUB_TM05_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM05_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM05_R2_rmphix_fastqc
+Total Sequences	66901023	WUB_TM05_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM05_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM05_R2_rmphix_fastqc
+%GC	66	WUB_TM05_R2_rmphix_fastqc
+Filename	WUB_TM06_R1_rmphix.fq.gz	WUB_TM06_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM06_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM06_R1_rmphix_fastqc
+Total Sequences	91372796	WUB_TM06_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM06_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM06_R1_rmphix_fastqc
+%GC	66	WUB_TM06_R1_rmphix_fastqc
+Filename	WUB_TM06_R2_rmphix.fq.gz	WUB_TM06_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM06_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM06_R2_rmphix_fastqc
+Total Sequences	91372796	WUB_TM06_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM06_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM06_R2_rmphix_fastqc
+%GC	66	WUB_TM06_R2_rmphix_fastqc
+Filename	WUB_TM07_R1_rmphix.fq.gz	WUB_TM07_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM07_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM07_R1_rmphix_fastqc
+Total Sequences	65915079	WUB_TM07_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM07_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM07_R1_rmphix_fastqc
+%GC	66	WUB_TM07_R1_rmphix_fastqc
+Filename	WUB_TM07_R2_rmphix.fq.gz	WUB_TM07_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM07_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM07_R2_rmphix_fastqc
+Total Sequences	65915079	WUB_TM07_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM07_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM07_R2_rmphix_fastqc
+%GC	66	WUB_TM07_R2_rmphix_fastqc
+Filename	WUB_TM08_R1_rmphix.fq.gz	WUB_TM08_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM08_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM08_R1_rmphix_fastqc
+Total Sequences	67810214	WUB_TM08_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM08_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM08_R1_rmphix_fastqc
+%GC	66	WUB_TM08_R1_rmphix_fastqc
+Filename	WUB_TM08_R2_rmphix.fq.gz	WUB_TM08_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM08_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM08_R2_rmphix_fastqc
+Total Sequences	67810214	WUB_TM08_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM08_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM08_R2_rmphix_fastqc
+%GC	66	WUB_TM08_R2_rmphix_fastqc
+Filename	WUB_TM09_R1_rmphix.fq.gz	WUB_TM09_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM09_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM09_R1_rmphix_fastqc
+Total Sequences	70302962	WUB_TM09_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM09_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM09_R1_rmphix_fastqc
+%GC	65	WUB_TM09_R1_rmphix_fastqc
+Filename	WUB_TM09_R2_rmphix.fq.gz	WUB_TM09_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM09_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM09_R2_rmphix_fastqc
+Total Sequences	70302962	WUB_TM09_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM09_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM09_R2_rmphix_fastqc
+%GC	65	WUB_TM09_R2_rmphix_fastqc
+Filename	WUB_TM10_R1_rmphix.fq.gz	WUB_TM10_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM10_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM10_R1_rmphix_fastqc
+Total Sequences	68068100	WUB_TM10_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM10_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM10_R1_rmphix_fastqc
+%GC	65	WUB_TM10_R1_rmphix_fastqc
+Filename	WUB_TM10_R2_rmphix.fq.gz	WUB_TM10_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM10_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM10_R2_rmphix_fastqc
+Total Sequences	68068100	WUB_TM10_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM10_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM10_R2_rmphix_fastqc
+%GC	65	WUB_TM10_R2_rmphix_fastqc
+Filename	WUB_TM11_R1_rmphix.fq.gz	WUB_TM11_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM11_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM11_R1_rmphix_fastqc
+Total Sequences	76984699	WUB_TM11_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM11_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM11_R1_rmphix_fastqc
+%GC	65	WUB_TM11_R1_rmphix_fastqc
+Filename	WUB_TM11_R2_rmphix.fq.gz	WUB_TM11_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM11_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM11_R2_rmphix_fastqc
+Total Sequences	76984699	WUB_TM11_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM11_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM11_R2_rmphix_fastqc
+%GC	66	WUB_TM11_R2_rmphix_fastqc
+Filename	WUB_TM12_R1_rmphix.fq.gz	WUB_TM12_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM12_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM12_R1_rmphix_fastqc
+Total Sequences	63803098	WUB_TM12_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM12_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM12_R1_rmphix_fastqc
+%GC	65	WUB_TM12_R1_rmphix_fastqc
+Filename	WUB_TM12_R2_rmphix.fq.gz	WUB_TM12_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM12_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM12_R2_rmphix_fastqc
+Total Sequences	63803098	WUB_TM12_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM12_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM12_R2_rmphix_fastqc
+%GC	65	WUB_TM12_R2_rmphix_fastqc
+Filename	WUB_TM13_R1_rmphix.fq.gz	WUB_TM13_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM13_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM13_R1_rmphix_fastqc
+Total Sequences	56536004	WUB_TM13_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM13_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM13_R1_rmphix_fastqc
+%GC	66	WUB_TM13_R1_rmphix_fastqc
+Filename	WUB_TM13_R2_rmphix.fq.gz	WUB_TM13_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM13_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM13_R2_rmphix_fastqc
+Total Sequences	56536004	WUB_TM13_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM13_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM13_R2_rmphix_fastqc
+%GC	66	WUB_TM13_R2_rmphix_fastqc
+Filename	WUB_TM14_R1_rmphix.fq.gz	WUB_TM14_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM14_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM14_R1_rmphix_fastqc
+Total Sequences	78987752	WUB_TM14_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM14_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM14_R1_rmphix_fastqc
+%GC	66	WUB_TM14_R1_rmphix_fastqc
+Filename	WUB_TM14_R2_rmphix.fq.gz	WUB_TM14_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM14_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM14_R2_rmphix_fastqc
+Total Sequences	78987752	WUB_TM14_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM14_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM14_R2_rmphix_fastqc
+%GC	66	WUB_TM14_R2_rmphix_fastqc
+Filename	WUB_TM15_R1_rmphix.fq.gz	WUB_TM15_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM15_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM15_R1_rmphix_fastqc
+Total Sequences	59251269	WUB_TM15_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM15_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM15_R1_rmphix_fastqc
+%GC	65	WUB_TM15_R1_rmphix_fastqc
+Filename	WUB_TM15_R2_rmphix.fq.gz	WUB_TM15_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM15_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM15_R2_rmphix_fastqc
+Total Sequences	59251269	WUB_TM15_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM15_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM15_R2_rmphix_fastqc
+%GC	65	WUB_TM15_R2_rmphix_fastqc
+Filename	WUB_TM16_R1_rmphix.fq.gz	WUB_TM16_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM16_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM16_R1_rmphix_fastqc
+Total Sequences	60536085	WUB_TM16_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM16_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM16_R1_rmphix_fastqc
+%GC	65	WUB_TM16_R1_rmphix_fastqc
+Filename	WUB_TM16_R2_rmphix.fq.gz	WUB_TM16_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM16_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM16_R2_rmphix_fastqc
+Total Sequences	60536085	WUB_TM16_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM16_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM16_R2_rmphix_fastqc
+%GC	65	WUB_TM16_R2_rmphix_fastqc
+Filename	WUB_TM17_R1_rmphix.fq.gz	WUB_TM17_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM17_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM17_R1_rmphix_fastqc
+Total Sequences	69343541	WUB_TM17_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM17_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM17_R1_rmphix_fastqc
+%GC	65	WUB_TM17_R1_rmphix_fastqc
+Filename	WUB_TM17_R2_rmphix.fq.gz	WUB_TM17_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM17_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM17_R2_rmphix_fastqc
+Total Sequences	69343541	WUB_TM17_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM17_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM17_R2_rmphix_fastqc
+%GC	65	WUB_TM17_R2_rmphix_fastqc
+Filename	WUB_TM18_R1_rmphix.fq.gz	WUB_TM18_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM18_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM18_R1_rmphix_fastqc
+Total Sequences	71519772	WUB_TM18_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM18_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM18_R1_rmphix_fastqc
+%GC	65	WUB_TM18_R1_rmphix_fastqc
+Filename	WUB_TM18_R2_rmphix.fq.gz	WUB_TM18_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM18_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM18_R2_rmphix_fastqc
+Total Sequences	71519772	WUB_TM18_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM18_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM18_R2_rmphix_fastqc
+%GC	65	WUB_TM18_R2_rmphix_fastqc
+Filename	WUB_TM19_R1_rmphix.fq.gz	WUB_TM19_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM19_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM19_R1_rmphix_fastqc
+Total Sequences	70367811	WUB_TM19_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM19_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM19_R1_rmphix_fastqc
+%GC	66	WUB_TM19_R1_rmphix_fastqc
+Filename	WUB_TM19_R2_rmphix.fq.gz	WUB_TM19_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM19_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM19_R2_rmphix_fastqc
+Total Sequences	70367811	WUB_TM19_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM19_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM19_R2_rmphix_fastqc
+%GC	66	WUB_TM19_R2_rmphix_fastqc
+Filename	WUB_TM20_R1_rmphix.fq.gz	WUB_TM20_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM20_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM20_R1_rmphix_fastqc
+Total Sequences	92474959	WUB_TM20_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM20_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM20_R1_rmphix_fastqc
+%GC	66	WUB_TM20_R1_rmphix_fastqc
+Filename	WUB_TM20_R2_rmphix.fq.gz	WUB_TM20_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM20_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM20_R2_rmphix_fastqc
+Total Sequences	92474959	WUB_TM20_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM20_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM20_R2_rmphix_fastqc
+%GC	66	WUB_TM20_R2_rmphix_fastqc
+Filename	WUB_TM21_R1_rmphix.fq.gz	WUB_TM21_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM21_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM21_R1_rmphix_fastqc
+Total Sequences	60798785	WUB_TM21_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM21_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM21_R1_rmphix_fastqc
+%GC	65	WUB_TM21_R1_rmphix_fastqc
+Filename	WUB_TM21_R2_rmphix.fq.gz	WUB_TM21_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM21_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM21_R2_rmphix_fastqc
+Total Sequences	60798785	WUB_TM21_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM21_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM21_R2_rmphix_fastqc
+%GC	65	WUB_TM21_R2_rmphix_fastqc
+Filename	WUB_TM22_R1_rmphix.fq.gz	WUB_TM22_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM22_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM22_R1_rmphix_fastqc
+Total Sequences	67071622	WUB_TM22_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM22_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM22_R1_rmphix_fastqc
+%GC	65	WUB_TM22_R1_rmphix_fastqc
+Filename	WUB_TM22_R2_rmphix.fq.gz	WUB_TM22_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM22_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM22_R2_rmphix_fastqc
+Total Sequences	67071622	WUB_TM22_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM22_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM22_R2_rmphix_fastqc
+%GC	65	WUB_TM22_R2_rmphix_fastqc
+Filename	WUB_TM23_R1_rmphix.fq.gz	WUB_TM23_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM23_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM23_R1_rmphix_fastqc
+Total Sequences	76195364	WUB_TM23_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM23_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM23_R1_rmphix_fastqc
+%GC	65	WUB_TM23_R1_rmphix_fastqc
+Filename	WUB_TM23_R2_rmphix.fq.gz	WUB_TM23_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM23_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM23_R2_rmphix_fastqc
+Total Sequences	76195364	WUB_TM23_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM23_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM23_R2_rmphix_fastqc
+%GC	65	WUB_TM23_R2_rmphix_fastqc
+Filename	WUB_TM24_R1_rmphix.fq.gz	WUB_TM24_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM24_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM24_R1_rmphix_fastqc
+Total Sequences	61275710	WUB_TM24_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM24_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM24_R1_rmphix_fastqc
+%GC	65	WUB_TM24_R1_rmphix_fastqc
+Filename	WUB_TM24_R2_rmphix.fq.gz	WUB_TM24_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM24_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM24_R2_rmphix_fastqc
+Total Sequences	61275710	WUB_TM24_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM24_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM24_R2_rmphix_fastqc
+%GC	65	WUB_TM24_R2_rmphix_fastqc
+Filename	WUB_TM25_R1_rmphix.fq.gz	WUB_TM25_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM25_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM25_R1_rmphix_fastqc
+Total Sequences	69541514	WUB_TM25_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM25_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM25_R1_rmphix_fastqc
+%GC	65	WUB_TM25_R1_rmphix_fastqc
+Filename	WUB_TM25_R2_rmphix.fq.gz	WUB_TM25_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM25_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM25_R2_rmphix_fastqc
+Total Sequences	69541514	WUB_TM25_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM25_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM25_R2_rmphix_fastqc
+%GC	66	WUB_TM25_R2_rmphix_fastqc
+Filename	WUB_TM26_R1_rmphix.fq.gz	WUB_TM26_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM26_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM26_R1_rmphix_fastqc
+Total Sequences	66291709	WUB_TM26_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM26_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM26_R1_rmphix_fastqc
+%GC	66	WUB_TM26_R1_rmphix_fastqc
+Filename	WUB_TM26_R2_rmphix.fq.gz	WUB_TM26_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM26_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM26_R2_rmphix_fastqc
+Total Sequences	66291709	WUB_TM26_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM26_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM26_R2_rmphix_fastqc
+%GC	66	WUB_TM26_R2_rmphix_fastqc
+Filename	WUB_TM27_R1_rmphix.fq.gz	WUB_TM27_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM27_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM27_R1_rmphix_fastqc
+Total Sequences	68649597	WUB_TM27_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM27_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM27_R1_rmphix_fastqc
+%GC	65	WUB_TM27_R1_rmphix_fastqc
+Filename	WUB_TM27_R2_rmphix.fq.gz	WUB_TM27_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM27_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM27_R2_rmphix_fastqc
+Total Sequences	68649597	WUB_TM27_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM27_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM27_R2_rmphix_fastqc
+%GC	65	WUB_TM27_R2_rmphix_fastqc
+Filename	WUB_TM28_R1_rmphix.fq.gz	WUB_TM28_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM28_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM28_R1_rmphix_fastqc
+Total Sequences	78473589	WUB_TM28_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM28_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM28_R1_rmphix_fastqc
+%GC	65	WUB_TM28_R1_rmphix_fastqc
+Filename	WUB_TM28_R2_rmphix.fq.gz	WUB_TM28_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM28_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM28_R2_rmphix_fastqc
+Total Sequences	78473589	WUB_TM28_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM28_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM28_R2_rmphix_fastqc
+%GC	65	WUB_TM28_R2_rmphix_fastqc
+Filename	WUB_TM29_R1_rmphix.fq.gz	WUB_TM29_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM29_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM29_R1_rmphix_fastqc
+Total Sequences	69981589	WUB_TM29_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM29_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM29_R1_rmphix_fastqc
+%GC	65	WUB_TM29_R1_rmphix_fastqc
+Filename	WUB_TM29_R2_rmphix.fq.gz	WUB_TM29_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM29_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM29_R2_rmphix_fastqc
+Total Sequences	69981589	WUB_TM29_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM29_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM29_R2_rmphix_fastqc
+%GC	65	WUB_TM29_R2_rmphix_fastqc
+Filename	WUB_TM30_R1_rmphix.fq.gz	WUB_TM30_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM30_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM30_R1_rmphix_fastqc
+Total Sequences	62286666	WUB_TM30_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM30_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM30_R1_rmphix_fastqc
+%GC	65	WUB_TM30_R1_rmphix_fastqc
+Filename	WUB_TM30_R2_rmphix.fq.gz	WUB_TM30_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM30_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM30_R2_rmphix_fastqc
+Total Sequences	62286666	WUB_TM30_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM30_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM30_R2_rmphix_fastqc
+%GC	65	WUB_TM30_R2_rmphix_fastqc
+Filename	WUB_TM31_R1_rmphix.fq.gz	WUB_TM31_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM31_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM31_R1_rmphix_fastqc
+Total Sequences	72198547	WUB_TM31_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM31_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM31_R1_rmphix_fastqc
+%GC	66	WUB_TM31_R1_rmphix_fastqc
+Filename	WUB_TM31_R2_rmphix.fq.gz	WUB_TM31_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM31_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM31_R2_rmphix_fastqc
+Total Sequences	72198547	WUB_TM31_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM31_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM31_R2_rmphix_fastqc
+%GC	66	WUB_TM31_R2_rmphix_fastqc
+Filename	WUB_TM32_R1_rmphix.fq.gz	WUB_TM32_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM32_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM32_R1_rmphix_fastqc
+Total Sequences	81928809	WUB_TM32_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM32_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM32_R1_rmphix_fastqc
+%GC	66	WUB_TM32_R1_rmphix_fastqc
+Filename	WUB_TM32_R2_rmphix.fq.gz	WUB_TM32_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM32_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM32_R2_rmphix_fastqc
+Total Sequences	81928809	WUB_TM32_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM32_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM32_R2_rmphix_fastqc
+%GC	66	WUB_TM32_R2_rmphix_fastqc
+Filename	WUB_TM33_R1_rmphix.fq.gz	WUB_TM33_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM33_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM33_R1_rmphix_fastqc
+Total Sequences	69922343	WUB_TM33_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM33_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM33_R1_rmphix_fastqc
+%GC	65	WUB_TM33_R1_rmphix_fastqc
+Filename	WUB_TM33_R2_rmphix.fq.gz	WUB_TM33_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM33_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM33_R2_rmphix_fastqc
+Total Sequences	69922343	WUB_TM33_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM33_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM33_R2_rmphix_fastqc
+%GC	65	WUB_TM33_R2_rmphix_fastqc
+Filename	WUB_TM34_R1_rmphix.fq.gz	WUB_TM34_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM34_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM34_R1_rmphix_fastqc
+Total Sequences	92071615	WUB_TM34_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM34_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM34_R1_rmphix_fastqc
+%GC	66	WUB_TM34_R1_rmphix_fastqc
+Filename	WUB_TM34_R2_rmphix.fq.gz	WUB_TM34_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM34_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM34_R2_rmphix_fastqc
+Total Sequences	92071615	WUB_TM34_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM34_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM34_R2_rmphix_fastqc
+%GC	66	WUB_TM34_R2_rmphix_fastqc
+Filename	WUB_TM35_R1_rmphix.fq.gz	WUB_TM35_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM35_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM35_R1_rmphix_fastqc
+Total Sequences	59923346	WUB_TM35_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM35_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM35_R1_rmphix_fastqc
+%GC	65	WUB_TM35_R1_rmphix_fastqc
+Filename	WUB_TM35_R2_rmphix.fq.gz	WUB_TM35_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM35_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM35_R2_rmphix_fastqc
+Total Sequences	59923346	WUB_TM35_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM35_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM35_R2_rmphix_fastqc
+%GC	65	WUB_TM35_R2_rmphix_fastqc
+Filename	WUB_TM36_R1_rmphix.fq.gz	WUB_TM36_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM36_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM36_R1_rmphix_fastqc
+Total Sequences	58464693	WUB_TM36_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM36_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM36_R1_rmphix_fastqc
+%GC	65	WUB_TM36_R1_rmphix_fastqc
+Filename	WUB_TM36_R2_rmphix.fq.gz	WUB_TM36_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM36_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM36_R2_rmphix_fastqc
+Total Sequences	58464693	WUB_TM36_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM36_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM36_R2_rmphix_fastqc
+%GC	65	WUB_TM36_R2_rmphix_fastqc
+Filename	WUB_TM37_R1_rmphix.fq.gz	WUB_TM37_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM37_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM37_R1_rmphix_fastqc
+Total Sequences	89670391	WUB_TM37_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM37_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM37_R1_rmphix_fastqc
+%GC	66	WUB_TM37_R1_rmphix_fastqc
+Filename	WUB_TM37_R2_rmphix.fq.gz	WUB_TM37_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM37_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM37_R2_rmphix_fastqc
+Total Sequences	89670391	WUB_TM37_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM37_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM37_R2_rmphix_fastqc
+%GC	66	WUB_TM37_R2_rmphix_fastqc
+Filename	WUB_TM38_R1_rmphix.fq.gz	WUB_TM38_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM38_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM38_R1_rmphix_fastqc
+Total Sequences	62110204	WUB_TM38_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM38_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM38_R1_rmphix_fastqc
+%GC	66	WUB_TM38_R1_rmphix_fastqc
+Filename	WUB_TM38_R2_rmphix.fq.gz	WUB_TM38_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM38_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM38_R2_rmphix_fastqc
+Total Sequences	62110204	WUB_TM38_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM38_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM38_R2_rmphix_fastqc
+%GC	66	WUB_TM38_R2_rmphix_fastqc
+Filename	WUB_TM39_R1_rmphix.fq.gz	WUB_TM39_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM39_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM39_R1_rmphix_fastqc
+Total Sequences	102416707	WUB_TM39_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM39_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM39_R1_rmphix_fastqc
+%GC	65	WUB_TM39_R1_rmphix_fastqc
+Filename	WUB_TM39_R2_rmphix.fq.gz	WUB_TM39_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM39_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM39_R2_rmphix_fastqc
+Total Sequences	102416707	WUB_TM39_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM39_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM39_R2_rmphix_fastqc
+%GC	65	WUB_TM39_R2_rmphix_fastqc
+Filename	WUB_TM40_R1_rmphix.fq.gz	WUB_TM40_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM40_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM40_R1_rmphix_fastqc
+Total Sequences	54998196	WUB_TM40_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM40_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM40_R1_rmphix_fastqc
+%GC	65	WUB_TM40_R1_rmphix_fastqc
+Filename	WUB_TM40_R2_rmphix.fq.gz	WUB_TM40_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM40_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM40_R2_rmphix_fastqc
+Total Sequences	54998196	WUB_TM40_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM40_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM40_R2_rmphix_fastqc
+%GC	65	WUB_TM40_R2_rmphix_fastqc
+Filename	WUB_TM41_R1_rmphix.fq.gz	WUB_TM41_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM41_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM41_R1_rmphix_fastqc
+Total Sequences	59996017	WUB_TM41_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM41_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM41_R1_rmphix_fastqc
+%GC	65	WUB_TM41_R1_rmphix_fastqc
+Filename	WUB_TM41_R2_rmphix.fq.gz	WUB_TM41_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM41_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM41_R2_rmphix_fastqc
+Total Sequences	59996017	WUB_TM41_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM41_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM41_R2_rmphix_fastqc
+%GC	65	WUB_TM41_R2_rmphix_fastqc
+Filename	WUB_TM42_R1_rmphix.fq.gz	WUB_TM42_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_TM42_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM42_R1_rmphix_fastqc
+Total Sequences	63312424	WUB_TM42_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM42_R1_rmphix_fastqc
+Sequence length	50-151	WUB_TM42_R1_rmphix_fastqc
+%GC	65	WUB_TM42_R1_rmphix_fastqc
+Filename	WUB_TM42_R2_rmphix.fq.gz	WUB_TM42_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_TM42_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_TM42_R2_rmphix_fastqc
+Total Sequences	63312424	WUB_TM42_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_TM42_R2_rmphix_fastqc
+Sequence length	50-151	WUB_TM42_R2_rmphix_fastqc
+%GC	65	WUB_TM42_R2_rmphix_fastqc
+Filename	WUB_VD01_R1_rmphix.fq.gz	WUB_VD01_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD01_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD01_R1_rmphix_fastqc
+Total Sequences	13556035	WUB_VD01_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD01_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD01_R1_rmphix_fastqc
+%GC	62	WUB_VD01_R1_rmphix_fastqc
+Filename	WUB_VD01_R2_rmphix.fq.gz	WUB_VD01_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD01_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD01_R2_rmphix_fastqc
+Total Sequences	13556035	WUB_VD01_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD01_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD01_R2_rmphix_fastqc
+%GC	63	WUB_VD01_R2_rmphix_fastqc
+Filename	WUB_VD02_R1_rmphix.fq.gz	WUB_VD02_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD02_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD02_R1_rmphix_fastqc
+Total Sequences	49198506	WUB_VD02_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD02_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD02_R1_rmphix_fastqc
+%GC	63	WUB_VD02_R1_rmphix_fastqc
+Filename	WUB_VD02_R2_rmphix.fq.gz	WUB_VD02_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD02_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD02_R2_rmphix_fastqc
+Total Sequences	49198506	WUB_VD02_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD02_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD02_R2_rmphix_fastqc
+%GC	63	WUB_VD02_R2_rmphix_fastqc
+Filename	WUB_VD03_R1_rmphix.fq.gz	WUB_VD03_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD03_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD03_R1_rmphix_fastqc
+Total Sequences	32518672	WUB_VD03_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD03_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD03_R1_rmphix_fastqc
+%GC	62	WUB_VD03_R1_rmphix_fastqc
+Filename	WUB_VD03_R2_rmphix.fq.gz	WUB_VD03_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD03_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD03_R2_rmphix_fastqc
+Total Sequences	32518672	WUB_VD03_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD03_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD03_R2_rmphix_fastqc
+%GC	63	WUB_VD03_R2_rmphix_fastqc
+Filename	WUB_VD04_R1_rmphix.fq.gz	WUB_VD04_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD04_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD04_R1_rmphix_fastqc
+Total Sequences	26983274	WUB_VD04_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD04_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD04_R1_rmphix_fastqc
+%GC	63	WUB_VD04_R1_rmphix_fastqc
+Filename	WUB_VD04_R2_rmphix.fq.gz	WUB_VD04_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD04_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD04_R2_rmphix_fastqc
+Total Sequences	26983274	WUB_VD04_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD04_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD04_R2_rmphix_fastqc
+%GC	63	WUB_VD04_R2_rmphix_fastqc
+Filename	WUB_VD05_R1_rmphix.fq.gz	WUB_VD05_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD05_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD05_R1_rmphix_fastqc
+Total Sequences	26509486	WUB_VD05_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD05_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD05_R1_rmphix_fastqc
+%GC	64	WUB_VD05_R1_rmphix_fastqc
+Filename	WUB_VD05_R2_rmphix.fq.gz	WUB_VD05_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD05_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD05_R2_rmphix_fastqc
+Total Sequences	26509486	WUB_VD05_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD05_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD05_R2_rmphix_fastqc
+%GC	64	WUB_VD05_R2_rmphix_fastqc
+Filename	WUB_VD06_R1_rmphix.fq.gz	WUB_VD06_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD06_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD06_R1_rmphix_fastqc
+Total Sequences	26776019	WUB_VD06_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD06_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD06_R1_rmphix_fastqc
+%GC	63	WUB_VD06_R1_rmphix_fastqc
+Filename	WUB_VD06_R2_rmphix.fq.gz	WUB_VD06_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD06_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD06_R2_rmphix_fastqc
+Total Sequences	26776019	WUB_VD06_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD06_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD06_R2_rmphix_fastqc
+%GC	64	WUB_VD06_R2_rmphix_fastqc
+Filename	WUB_VD07_R1_rmphix.fq.gz	WUB_VD07_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD07_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD07_R1_rmphix_fastqc
+Total Sequences	27238792	WUB_VD07_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD07_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD07_R1_rmphix_fastqc
+%GC	62	WUB_VD07_R1_rmphix_fastqc
+Filename	WUB_VD07_R2_rmphix.fq.gz	WUB_VD07_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD07_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD07_R2_rmphix_fastqc
+Total Sequences	27238792	WUB_VD07_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD07_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD07_R2_rmphix_fastqc
+%GC	62	WUB_VD07_R2_rmphix_fastqc
+Filename	WUB_VD08_R1_rmphix.fq.gz	WUB_VD08_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD08_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD08_R1_rmphix_fastqc
+Total Sequences	24308345	WUB_VD08_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD08_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD08_R1_rmphix_fastqc
+%GC	62	WUB_VD08_R1_rmphix_fastqc
+Filename	WUB_VD08_R2_rmphix.fq.gz	WUB_VD08_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD08_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD08_R2_rmphix_fastqc
+Total Sequences	24308345	WUB_VD08_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD08_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD08_R2_rmphix_fastqc
+%GC	63	WUB_VD08_R2_rmphix_fastqc
+Filename	WUB_VD09_R1_rmphix.fq.gz	WUB_VD09_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD09_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD09_R1_rmphix_fastqc
+Total Sequences	28077211	WUB_VD09_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD09_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD09_R1_rmphix_fastqc
+%GC	62	WUB_VD09_R1_rmphix_fastqc
+Filename	WUB_VD09_R2_rmphix.fq.gz	WUB_VD09_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD09_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD09_R2_rmphix_fastqc
+Total Sequences	28077211	WUB_VD09_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD09_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD09_R2_rmphix_fastqc
+%GC	62	WUB_VD09_R2_rmphix_fastqc
+Filename	WUB_VD10_R1_rmphix.fq.gz	WUB_VD10_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD10_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD10_R1_rmphix_fastqc
+Total Sequences	29247205	WUB_VD10_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD10_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD10_R1_rmphix_fastqc
+%GC	62	WUB_VD10_R1_rmphix_fastqc
+Filename	WUB_VD10_R2_rmphix.fq.gz	WUB_VD10_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD10_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD10_R2_rmphix_fastqc
+Total Sequences	29247205	WUB_VD10_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD10_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD10_R2_rmphix_fastqc
+%GC	62	WUB_VD10_R2_rmphix_fastqc
+Filename	WUB_VD11_R1_rmphix.fq.gz	WUB_VD11_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD11_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD11_R1_rmphix_fastqc
+Total Sequences	26357366	WUB_VD11_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD11_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD11_R1_rmphix_fastqc
+%GC	61	WUB_VD11_R1_rmphix_fastqc
+Filename	WUB_VD11_R2_rmphix.fq.gz	WUB_VD11_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD11_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD11_R2_rmphix_fastqc
+Total Sequences	26357366	WUB_VD11_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD11_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD11_R2_rmphix_fastqc
+%GC	61	WUB_VD11_R2_rmphix_fastqc
+Filename	WUB_VD12_R1_rmphix.fq.gz	WUB_VD12_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD12_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD12_R1_rmphix_fastqc
+Total Sequences	26574014	WUB_VD12_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD12_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD12_R1_rmphix_fastqc
+%GC	62	WUB_VD12_R1_rmphix_fastqc
+Filename	WUB_VD12_R2_rmphix.fq.gz	WUB_VD12_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD12_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD12_R2_rmphix_fastqc
+Total Sequences	26574014	WUB_VD12_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD12_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD12_R2_rmphix_fastqc
+%GC	62	WUB_VD12_R2_rmphix_fastqc
+Filename	WUB_VD13_R1_rmphix.fq.gz	WUB_VD13_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD13_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD13_R1_rmphix_fastqc
+Total Sequences	27835980	WUB_VD13_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD13_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD13_R1_rmphix_fastqc
+%GC	61	WUB_VD13_R1_rmphix_fastqc
+Filename	WUB_VD13_R2_rmphix.fq.gz	WUB_VD13_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD13_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD13_R2_rmphix_fastqc
+Total Sequences	27835980	WUB_VD13_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD13_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD13_R2_rmphix_fastqc
+%GC	62	WUB_VD13_R2_rmphix_fastqc
+Filename	WUB_VD14_R1_rmphix.fq.gz	WUB_VD14_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD14_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD14_R1_rmphix_fastqc
+Total Sequences	27896822	WUB_VD14_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD14_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD14_R1_rmphix_fastqc
+%GC	62	WUB_VD14_R1_rmphix_fastqc
+Filename	WUB_VD14_R2_rmphix.fq.gz	WUB_VD14_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD14_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD14_R2_rmphix_fastqc
+Total Sequences	27896822	WUB_VD14_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD14_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD14_R2_rmphix_fastqc
+%GC	62	WUB_VD14_R2_rmphix_fastqc
+Filename	WUB_VD15_R1_rmphix.fq.gz	WUB_VD15_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD15_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD15_R1_rmphix_fastqc
+Total Sequences	24136486	WUB_VD15_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD15_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD15_R1_rmphix_fastqc
+%GC	62	WUB_VD15_R1_rmphix_fastqc
+Filename	WUB_VD15_R2_rmphix.fq.gz	WUB_VD15_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD15_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD15_R2_rmphix_fastqc
+Total Sequences	24136486	WUB_VD15_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD15_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD15_R2_rmphix_fastqc
+%GC	62	WUB_VD15_R2_rmphix_fastqc
+Filename	WUB_VD16_R1_rmphix.fq.gz	WUB_VD16_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD16_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD16_R1_rmphix_fastqc
+Total Sequences	27698217	WUB_VD16_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD16_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD16_R1_rmphix_fastqc
+%GC	62	WUB_VD16_R1_rmphix_fastqc
+Filename	WUB_VD16_R2_rmphix.fq.gz	WUB_VD16_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD16_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD16_R2_rmphix_fastqc
+Total Sequences	27698217	WUB_VD16_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD16_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD16_R2_rmphix_fastqc
+%GC	62	WUB_VD16_R2_rmphix_fastqc
+Filename	WUB_VD17_R1_rmphix.fq.gz	WUB_VD17_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD17_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD17_R1_rmphix_fastqc
+Total Sequences	26477138	WUB_VD17_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD17_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD17_R1_rmphix_fastqc
+%GC	62	WUB_VD17_R1_rmphix_fastqc
+Filename	WUB_VD17_R2_rmphix.fq.gz	WUB_VD17_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD17_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD17_R2_rmphix_fastqc
+Total Sequences	26477138	WUB_VD17_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD17_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD17_R2_rmphix_fastqc
+%GC	62	WUB_VD17_R2_rmphix_fastqc
+Filename	WUB_VD18_R1_rmphix.fq.gz	WUB_VD18_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD18_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD18_R1_rmphix_fastqc
+Total Sequences	26877540	WUB_VD18_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD18_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD18_R1_rmphix_fastqc
+%GC	62	WUB_VD18_R1_rmphix_fastqc
+Filename	WUB_VD18_R2_rmphix.fq.gz	WUB_VD18_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD18_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD18_R2_rmphix_fastqc
+Total Sequences	26877540	WUB_VD18_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD18_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD18_R2_rmphix_fastqc
+%GC	62	WUB_VD18_R2_rmphix_fastqc
+Filename	WUB_VD19_R1_rmphix.fq.gz	WUB_VD19_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD19_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD19_R1_rmphix_fastqc
+Total Sequences	26747576	WUB_VD19_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD19_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD19_R1_rmphix_fastqc
+%GC	63	WUB_VD19_R1_rmphix_fastqc
+Filename	WUB_VD19_R2_rmphix.fq.gz	WUB_VD19_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD19_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD19_R2_rmphix_fastqc
+Total Sequences	26747576	WUB_VD19_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD19_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD19_R2_rmphix_fastqc
+%GC	63	WUB_VD19_R2_rmphix_fastqc
+Filename	WUB_VD20_R1_rmphix.fq.gz	WUB_VD20_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD20_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD20_R1_rmphix_fastqc
+Total Sequences	28612635	WUB_VD20_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD20_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD20_R1_rmphix_fastqc
+%GC	62	WUB_VD20_R1_rmphix_fastqc
+Filename	WUB_VD20_R2_rmphix.fq.gz	WUB_VD20_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD20_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD20_R2_rmphix_fastqc
+Total Sequences	28612635	WUB_VD20_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD20_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD20_R2_rmphix_fastqc
+%GC	62	WUB_VD20_R2_rmphix_fastqc
+Filename	WUB_VD21_R1_rmphix.fq.gz	WUB_VD21_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD21_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD21_R1_rmphix_fastqc
+Total Sequences	26242372	WUB_VD21_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD21_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD21_R1_rmphix_fastqc
+%GC	62	WUB_VD21_R1_rmphix_fastqc
+Filename	WUB_VD21_R2_rmphix.fq.gz	WUB_VD21_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD21_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD21_R2_rmphix_fastqc
+Total Sequences	26242372	WUB_VD21_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD21_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD21_R2_rmphix_fastqc
+%GC	62	WUB_VD21_R2_rmphix_fastqc
+Filename	WUB_VD22_R1_rmphix.fq.gz	WUB_VD22_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD22_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD22_R1_rmphix_fastqc
+Total Sequences	25190263	WUB_VD22_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD22_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD22_R1_rmphix_fastqc
+%GC	62	WUB_VD22_R1_rmphix_fastqc
+Filename	WUB_VD22_R2_rmphix.fq.gz	WUB_VD22_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD22_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD22_R2_rmphix_fastqc
+Total Sequences	25190263	WUB_VD22_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD22_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD22_R2_rmphix_fastqc
+%GC	62	WUB_VD22_R2_rmphix_fastqc
+Filename	WUB_VD23_R1_rmphix.fq.gz	WUB_VD23_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD23_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD23_R1_rmphix_fastqc
+Total Sequences	26528151	WUB_VD23_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD23_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD23_R1_rmphix_fastqc
+%GC	61	WUB_VD23_R1_rmphix_fastqc
+Filename	WUB_VD23_R2_rmphix.fq.gz	WUB_VD23_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD23_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD23_R2_rmphix_fastqc
+Total Sequences	26528151	WUB_VD23_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD23_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD23_R2_rmphix_fastqc
+%GC	62	WUB_VD23_R2_rmphix_fastqc
+Filename	WUB_VD24_R1_rmphix.fq.gz	WUB_VD24_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD24_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD24_R1_rmphix_fastqc
+Total Sequences	26656902	WUB_VD24_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD24_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD24_R1_rmphix_fastqc
+%GC	62	WUB_VD24_R1_rmphix_fastqc
+Filename	WUB_VD24_R2_rmphix.fq.gz	WUB_VD24_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD24_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD24_R2_rmphix_fastqc
+Total Sequences	26656902	WUB_VD24_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD24_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD24_R2_rmphix_fastqc
+%GC	62	WUB_VD24_R2_rmphix_fastqc
+Filename	WUB_VD25_R1_rmphix.fq.gz	WUB_VD25_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD25_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD25_R1_rmphix_fastqc
+Total Sequences	26871515	WUB_VD25_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD25_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD25_R1_rmphix_fastqc
+%GC	62	WUB_VD25_R1_rmphix_fastqc
+Filename	WUB_VD25_R2_rmphix.fq.gz	WUB_VD25_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD25_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD25_R2_rmphix_fastqc
+Total Sequences	26871515	WUB_VD25_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD25_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD25_R2_rmphix_fastqc
+%GC	62	WUB_VD25_R2_rmphix_fastqc
+Filename	WUB_VD26_R1_rmphix.fq.gz	WUB_VD26_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD26_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD26_R1_rmphix_fastqc
+Total Sequences	26092807	WUB_VD26_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD26_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD26_R1_rmphix_fastqc
+%GC	61	WUB_VD26_R1_rmphix_fastqc
+Filename	WUB_VD26_R2_rmphix.fq.gz	WUB_VD26_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD26_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD26_R2_rmphix_fastqc
+Total Sequences	26092807	WUB_VD26_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD26_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD26_R2_rmphix_fastqc
+%GC	62	WUB_VD26_R2_rmphix_fastqc
+Filename	WUB_VD27_R1_rmphix.fq.gz	WUB_VD27_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD27_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD27_R1_rmphix_fastqc
+Total Sequences	28954901	WUB_VD27_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD27_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD27_R1_rmphix_fastqc
+%GC	61	WUB_VD27_R1_rmphix_fastqc
+Filename	WUB_VD27_R2_rmphix.fq.gz	WUB_VD27_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD27_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD27_R2_rmphix_fastqc
+Total Sequences	28954901	WUB_VD27_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD27_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD27_R2_rmphix_fastqc
+%GC	61	WUB_VD27_R2_rmphix_fastqc
+Filename	WUB_VD28_R1_rmphix.fq.gz	WUB_VD28_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD28_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD28_R1_rmphix_fastqc
+Total Sequences	33633548	WUB_VD28_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD28_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD28_R1_rmphix_fastqc
+%GC	62	WUB_VD28_R1_rmphix_fastqc
+Filename	WUB_VD28_R2_rmphix.fq.gz	WUB_VD28_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD28_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD28_R2_rmphix_fastqc
+Total Sequences	33633548	WUB_VD28_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD28_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD28_R2_rmphix_fastqc
+%GC	62	WUB_VD28_R2_rmphix_fastqc
+Filename	WUB_VD29_R1_rmphix.fq.gz	WUB_VD29_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD29_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD29_R1_rmphix_fastqc
+Total Sequences	28172869	WUB_VD29_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD29_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD29_R1_rmphix_fastqc
+%GC	62	WUB_VD29_R1_rmphix_fastqc
+Filename	WUB_VD29_R2_rmphix.fq.gz	WUB_VD29_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD29_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD29_R2_rmphix_fastqc
+Total Sequences	28172869	WUB_VD29_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD29_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD29_R2_rmphix_fastqc
+%GC	62	WUB_VD29_R2_rmphix_fastqc
+Filename	WUB_VD30_R1_rmphix.fq.gz	WUB_VD30_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD30_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD30_R1_rmphix_fastqc
+Total Sequences	30754705	WUB_VD30_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD30_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD30_R1_rmphix_fastqc
+%GC	62	WUB_VD30_R1_rmphix_fastqc
+Filename	WUB_VD30_R2_rmphix.fq.gz	WUB_VD30_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD30_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD30_R2_rmphix_fastqc
+Total Sequences	30754705	WUB_VD30_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD30_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD30_R2_rmphix_fastqc
+%GC	62	WUB_VD30_R2_rmphix_fastqc
+Filename	WUB_VD31_R1_rmphix.fq.gz	WUB_VD31_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD31_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD31_R1_rmphix_fastqc
+Total Sequences	25822259	WUB_VD31_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD31_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD31_R1_rmphix_fastqc
+%GC	62	WUB_VD31_R1_rmphix_fastqc
+Filename	WUB_VD31_R2_rmphix.fq.gz	WUB_VD31_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD31_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD31_R2_rmphix_fastqc
+Total Sequences	25822259	WUB_VD31_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD31_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD31_R2_rmphix_fastqc
+%GC	62	WUB_VD31_R2_rmphix_fastqc
+Filename	WUB_VD32_R1_rmphix.fq.gz	WUB_VD32_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD32_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD32_R1_rmphix_fastqc
+Total Sequences	27039058	WUB_VD32_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD32_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD32_R1_rmphix_fastqc
+%GC	61	WUB_VD32_R1_rmphix_fastqc
+Filename	WUB_VD32_R2_rmphix.fq.gz	WUB_VD32_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD32_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD32_R2_rmphix_fastqc
+Total Sequences	27039058	WUB_VD32_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD32_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD32_R2_rmphix_fastqc
+%GC	62	WUB_VD32_R2_rmphix_fastqc
+Filename	WUB_VD33_R1_rmphix.fq.gz	WUB_VD33_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD33_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD33_R1_rmphix_fastqc
+Total Sequences	27100094	WUB_VD33_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD33_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD33_R1_rmphix_fastqc
+%GC	61	WUB_VD33_R1_rmphix_fastqc
+Filename	WUB_VD33_R2_rmphix.fq.gz	WUB_VD33_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD33_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD33_R2_rmphix_fastqc
+Total Sequences	27100094	WUB_VD33_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD33_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD33_R2_rmphix_fastqc
+%GC	62	WUB_VD33_R2_rmphix_fastqc
+Filename	WUB_VD34_R1_rmphix.fq.gz	WUB_VD34_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD34_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD34_R1_rmphix_fastqc
+Total Sequences	29353535	WUB_VD34_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD34_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD34_R1_rmphix_fastqc
+%GC	62	WUB_VD34_R1_rmphix_fastqc
+Filename	WUB_VD34_R2_rmphix.fq.gz	WUB_VD34_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD34_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD34_R2_rmphix_fastqc
+Total Sequences	29353535	WUB_VD34_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD34_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD34_R2_rmphix_fastqc
+%GC	62	WUB_VD34_R2_rmphix_fastqc
+Filename	WUB_VD35_R1_rmphix.fq.gz	WUB_VD35_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD35_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD35_R1_rmphix_fastqc
+Total Sequences	29401659	WUB_VD35_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD35_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD35_R1_rmphix_fastqc
+%GC	62	WUB_VD35_R1_rmphix_fastqc
+Filename	WUB_VD35_R2_rmphix.fq.gz	WUB_VD35_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD35_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD35_R2_rmphix_fastqc
+Total Sequences	29401659	WUB_VD35_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD35_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD35_R2_rmphix_fastqc
+%GC	62	WUB_VD35_R2_rmphix_fastqc
+Filename	WUB_VD36_R1_rmphix.fq.gz	WUB_VD36_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD36_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD36_R1_rmphix_fastqc
+Total Sequences	29556933	WUB_VD36_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD36_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD36_R1_rmphix_fastqc
+%GC	62	WUB_VD36_R1_rmphix_fastqc
+Filename	WUB_VD36_R2_rmphix.fq.gz	WUB_VD36_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD36_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD36_R2_rmphix_fastqc
+Total Sequences	29556933	WUB_VD36_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD36_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD36_R2_rmphix_fastqc
+%GC	62	WUB_VD36_R2_rmphix_fastqc
+Filename	WUB_VD37_R1_rmphix.fq.gz	WUB_VD37_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD37_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD37_R1_rmphix_fastqc
+Total Sequences	25755309	WUB_VD37_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD37_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD37_R1_rmphix_fastqc
+%GC	62	WUB_VD37_R1_rmphix_fastqc
+Filename	WUB_VD37_R2_rmphix.fq.gz	WUB_VD37_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD37_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD37_R2_rmphix_fastqc
+Total Sequences	25755309	WUB_VD37_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD37_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD37_R2_rmphix_fastqc
+%GC	62	WUB_VD37_R2_rmphix_fastqc
+Filename	WUB_VD38_R1_rmphix.fq.gz	WUB_VD38_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD38_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD38_R1_rmphix_fastqc
+Total Sequences	40519637	WUB_VD38_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD38_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD38_R1_rmphix_fastqc
+%GC	62	WUB_VD38_R1_rmphix_fastqc
+Filename	WUB_VD38_R2_rmphix.fq.gz	WUB_VD38_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD38_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD38_R2_rmphix_fastqc
+Total Sequences	40519637	WUB_VD38_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD38_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD38_R2_rmphix_fastqc
+%GC	62	WUB_VD38_R2_rmphix_fastqc
+Filename	WUB_VD39_R1_rmphix.fq.gz	WUB_VD39_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD39_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD39_R1_rmphix_fastqc
+Total Sequences	28110274	WUB_VD39_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD39_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD39_R1_rmphix_fastqc
+%GC	62	WUB_VD39_R1_rmphix_fastqc
+Filename	WUB_VD39_R2_rmphix.fq.gz	WUB_VD39_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD39_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD39_R2_rmphix_fastqc
+Total Sequences	28110274	WUB_VD39_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD39_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD39_R2_rmphix_fastqc
+%GC	62	WUB_VD39_R2_rmphix_fastqc
+Filename	WUB_VD40_R1_rmphix.fq.gz	WUB_VD40_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD40_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD40_R1_rmphix_fastqc
+Total Sequences	28059044	WUB_VD40_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD40_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD40_R1_rmphix_fastqc
+%GC	62	WUB_VD40_R1_rmphix_fastqc
+Filename	WUB_VD40_R2_rmphix.fq.gz	WUB_VD40_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD40_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD40_R2_rmphix_fastqc
+Total Sequences	28059044	WUB_VD40_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD40_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD40_R2_rmphix_fastqc
+%GC	62	WUB_VD40_R2_rmphix_fastqc
+Filename	WUB_VD41_R1_rmphix.fq.gz	WUB_VD41_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD41_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD41_R1_rmphix_fastqc
+Total Sequences	25616977	WUB_VD41_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD41_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD41_R1_rmphix_fastqc
+%GC	62	WUB_VD41_R1_rmphix_fastqc
+Filename	WUB_VD41_R2_rmphix.fq.gz	WUB_VD41_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD41_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD41_R2_rmphix_fastqc
+Total Sequences	25616977	WUB_VD41_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD41_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD41_R2_rmphix_fastqc
+%GC	62	WUB_VD41_R2_rmphix_fastqc
+Filename	WUB_VD42_R1_rmphix.fq.gz	WUB_VD42_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD42_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD42_R1_rmphix_fastqc
+Total Sequences	29440674	WUB_VD42_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD42_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD42_R1_rmphix_fastqc
+%GC	62	WUB_VD42_R1_rmphix_fastqc
+Filename	WUB_VD42_R2_rmphix.fq.gz	WUB_VD42_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD42_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD42_R2_rmphix_fastqc
+Total Sequences	29440674	WUB_VD42_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD42_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD42_R2_rmphix_fastqc
+%GC	62	WUB_VD42_R2_rmphix_fastqc
+Filename	WUB_VD43_R1_rmphix.fq.gz	WUB_VD43_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD43_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD43_R1_rmphix_fastqc
+Total Sequences	38477325	WUB_VD43_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD43_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD43_R1_rmphix_fastqc
+%GC	63	WUB_VD43_R1_rmphix_fastqc
+Filename	WUB_VD43_R2_rmphix.fq.gz	WUB_VD43_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD43_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD43_R2_rmphix_fastqc
+Total Sequences	38477325	WUB_VD43_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD43_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD43_R2_rmphix_fastqc
+%GC	63	WUB_VD43_R2_rmphix_fastqc
+Filename	WUB_VD44_R1_rmphix.fq.gz	WUB_VD44_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD44_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD44_R1_rmphix_fastqc
+Total Sequences	42390730	WUB_VD44_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD44_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD44_R1_rmphix_fastqc
+%GC	63	WUB_VD44_R1_rmphix_fastqc
+Filename	WUB_VD44_R2_rmphix.fq.gz	WUB_VD44_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD44_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD44_R2_rmphix_fastqc
+Total Sequences	42390730	WUB_VD44_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD44_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD44_R2_rmphix_fastqc
+%GC	64	WUB_VD44_R2_rmphix_fastqc
+Filename	WUB_VD45_R1_rmphix.fq.gz	WUB_VD45_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD45_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD45_R1_rmphix_fastqc
+Total Sequences	33548871	WUB_VD45_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD45_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD45_R1_rmphix_fastqc
+%GC	63	WUB_VD45_R1_rmphix_fastqc
+Filename	WUB_VD45_R2_rmphix.fq.gz	WUB_VD45_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD45_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD45_R2_rmphix_fastqc
+Total Sequences	33548871	WUB_VD45_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD45_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD45_R2_rmphix_fastqc
+%GC	64	WUB_VD45_R2_rmphix_fastqc
+Filename	WUB_VD46_R1_rmphix.fq.gz	WUB_VD46_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD46_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD46_R1_rmphix_fastqc
+Total Sequences	36487501	WUB_VD46_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD46_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD46_R1_rmphix_fastqc
+%GC	64	WUB_VD46_R1_rmphix_fastqc
+Filename	WUB_VD46_R2_rmphix.fq.gz	WUB_VD46_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD46_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD46_R2_rmphix_fastqc
+Total Sequences	36487501	WUB_VD46_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD46_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD46_R2_rmphix_fastqc
+%GC	64	WUB_VD46_R2_rmphix_fastqc
+Filename	WUB_VD47_R1_rmphix.fq.gz	WUB_VD47_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD47_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD47_R1_rmphix_fastqc
+Total Sequences	27214411	WUB_VD47_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD47_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD47_R1_rmphix_fastqc
+%GC	64	WUB_VD47_R1_rmphix_fastqc
+Filename	WUB_VD47_R2_rmphix.fq.gz	WUB_VD47_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD47_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD47_R2_rmphix_fastqc
+Total Sequences	27214411	WUB_VD47_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD47_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD47_R2_rmphix_fastqc
+%GC	64	WUB_VD47_R2_rmphix_fastqc
+Filename	WUB_VD48_R1_rmphix.fq.gz	WUB_VD48_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VD48_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD48_R1_rmphix_fastqc
+Total Sequences	30307545	WUB_VD48_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD48_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VD48_R1_rmphix_fastqc
+%GC	64	WUB_VD48_R1_rmphix_fastqc
+Filename	WUB_VD48_R2_rmphix.fq.gz	WUB_VD48_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VD48_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VD48_R2_rmphix_fastqc
+Total Sequences	30307545	WUB_VD48_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VD48_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VD48_R2_rmphix_fastqc
+%GC	64	WUB_VD48_R2_rmphix_fastqc
+Filename	WUB_VN01_R1_rmphix.fq.gz	WUB_VN01_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN01_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN01_R1_rmphix_fastqc
+Total Sequences	26432980	WUB_VN01_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN01_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN01_R1_rmphix_fastqc
+%GC	65	WUB_VN01_R1_rmphix_fastqc
+Filename	WUB_VN01_R2_rmphix.fq.gz	WUB_VN01_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN01_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN01_R2_rmphix_fastqc
+Total Sequences	26432980	WUB_VN01_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN01_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN01_R2_rmphix_fastqc
+%GC	66	WUB_VN01_R2_rmphix_fastqc
+Filename	WUB_VN02_R1_rmphix.fq.gz	WUB_VN02_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN02_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN02_R1_rmphix_fastqc
+Total Sequences	26220513	WUB_VN02_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN02_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN02_R1_rmphix_fastqc
+%GC	65	WUB_VN02_R1_rmphix_fastqc
+Filename	WUB_VN02_R2_rmphix.fq.gz	WUB_VN02_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN02_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN02_R2_rmphix_fastqc
+Total Sequences	26220513	WUB_VN02_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN02_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN02_R2_rmphix_fastqc
+%GC	65	WUB_VN02_R2_rmphix_fastqc
+Filename	WUB_VN03_R1_rmphix.fq.gz	WUB_VN03_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN03_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN03_R1_rmphix_fastqc
+Total Sequences	29361667	WUB_VN03_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN03_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN03_R1_rmphix_fastqc
+%GC	65	WUB_VN03_R1_rmphix_fastqc
+Filename	WUB_VN03_R2_rmphix.fq.gz	WUB_VN03_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN03_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN03_R2_rmphix_fastqc
+Total Sequences	29361667	WUB_VN03_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN03_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN03_R2_rmphix_fastqc
+%GC	65	WUB_VN03_R2_rmphix_fastqc
+Filename	WUB_VN04_R1_rmphix.fq.gz	WUB_VN04_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN04_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN04_R1_rmphix_fastqc
+Total Sequences	26080364	WUB_VN04_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN04_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN04_R1_rmphix_fastqc
+%GC	64	WUB_VN04_R1_rmphix_fastqc
+Filename	WUB_VN04_R2_rmphix.fq.gz	WUB_VN04_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN04_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN04_R2_rmphix_fastqc
+Total Sequences	26080364	WUB_VN04_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN04_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN04_R2_rmphix_fastqc
+%GC	64	WUB_VN04_R2_rmphix_fastqc
+Filename	WUB_VN05_R1_rmphix.fq.gz	WUB_VN05_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN05_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN05_R1_rmphix_fastqc
+Total Sequences	29570078	WUB_VN05_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN05_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN05_R1_rmphix_fastqc
+%GC	64	WUB_VN05_R1_rmphix_fastqc
+Filename	WUB_VN05_R2_rmphix.fq.gz	WUB_VN05_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN05_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN05_R2_rmphix_fastqc
+Total Sequences	29570078	WUB_VN05_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN05_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN05_R2_rmphix_fastqc
+%GC	64	WUB_VN05_R2_rmphix_fastqc
+Filename	WUB_VN06_R1_rmphix.fq.gz	WUB_VN06_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN06_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN06_R1_rmphix_fastqc
+Total Sequences	26731979	WUB_VN06_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN06_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN06_R1_rmphix_fastqc
+%GC	64	WUB_VN06_R1_rmphix_fastqc
+Filename	WUB_VN06_R2_rmphix.fq.gz	WUB_VN06_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN06_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN06_R2_rmphix_fastqc
+Total Sequences	26731979	WUB_VN06_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN06_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN06_R2_rmphix_fastqc
+%GC	64	WUB_VN06_R2_rmphix_fastqc
+Filename	WUB_VN07_R1_rmphix.fq.gz	WUB_VN07_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN07_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN07_R1_rmphix_fastqc
+Total Sequences	27506862	WUB_VN07_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN07_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN07_R1_rmphix_fastqc
+%GC	62	WUB_VN07_R1_rmphix_fastqc
+Filename	WUB_VN07_R2_rmphix.fq.gz	WUB_VN07_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN07_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN07_R2_rmphix_fastqc
+Total Sequences	27506862	WUB_VN07_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN07_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN07_R2_rmphix_fastqc
+%GC	62	WUB_VN07_R2_rmphix_fastqc
+Filename	WUB_VN08_R1_rmphix.fq.gz	WUB_VN08_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN08_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN08_R1_rmphix_fastqc
+Total Sequences	26985959	WUB_VN08_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN08_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN08_R1_rmphix_fastqc
+%GC	63	WUB_VN08_R1_rmphix_fastqc
+Filename	WUB_VN08_R2_rmphix.fq.gz	WUB_VN08_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN08_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN08_R2_rmphix_fastqc
+Total Sequences	26985959	WUB_VN08_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN08_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN08_R2_rmphix_fastqc
+%GC	63	WUB_VN08_R2_rmphix_fastqc
+Filename	WUB_VN09_R1_rmphix.fq.gz	WUB_VN09_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN09_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN09_R1_rmphix_fastqc
+Total Sequences	26616639	WUB_VN09_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN09_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN09_R1_rmphix_fastqc
+%GC	63	WUB_VN09_R1_rmphix_fastqc
+Filename	WUB_VN09_R2_rmphix.fq.gz	WUB_VN09_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN09_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN09_R2_rmphix_fastqc
+Total Sequences	26616639	WUB_VN09_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN09_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN09_R2_rmphix_fastqc
+%GC	63	WUB_VN09_R2_rmphix_fastqc
+Filename	WUB_VN10_R1_rmphix.fq.gz	WUB_VN10_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN10_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN10_R1_rmphix_fastqc
+Total Sequences	26536241	WUB_VN10_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN10_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN10_R1_rmphix_fastqc
+%GC	63	WUB_VN10_R1_rmphix_fastqc
+Filename	WUB_VN10_R2_rmphix.fq.gz	WUB_VN10_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN10_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN10_R2_rmphix_fastqc
+Total Sequences	26536241	WUB_VN10_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN10_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN10_R2_rmphix_fastqc
+%GC	64	WUB_VN10_R2_rmphix_fastqc
+Filename	WUB_VN11_R1_rmphix.fq.gz	WUB_VN11_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN11_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN11_R1_rmphix_fastqc
+Total Sequences	26492142	WUB_VN11_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN11_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN11_R1_rmphix_fastqc
+%GC	63	WUB_VN11_R1_rmphix_fastqc
+Filename	WUB_VN11_R2_rmphix.fq.gz	WUB_VN11_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN11_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN11_R2_rmphix_fastqc
+Total Sequences	26492142	WUB_VN11_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN11_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN11_R2_rmphix_fastqc
+%GC	63	WUB_VN11_R2_rmphix_fastqc
+Filename	WUB_VN12_R1_rmphix.fq.gz	WUB_VN12_R1_rmphix_fastqc
+File type	Conventional base calls	WUB_VN12_R1_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN12_R1_rmphix_fastqc
+Total Sequences	25164052	WUB_VN12_R1_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN12_R1_rmphix_fastqc
+Sequence length	50-151	WUB_VN12_R1_rmphix_fastqc
+%GC	63	WUB_VN12_R1_rmphix_fastqc
+Filename	WUB_VN12_R2_rmphix.fq.gz	WUB_VN12_R2_rmphix_fastqc
+File type	Conventional base calls	WUB_VN12_R2_rmphix_fastqc
+Encoding	Sanger / Illumina 1.9	WUB_VN12_R2_rmphix_fastqc
+Total Sequences	25164052	WUB_VN12_R2_rmphix_fastqc
+Sequences flagged as poor quality	0	WUB_VN12_R2_rmphix_fastqc
+Sequence length	50-151	WUB_VN12_R2_rmphix_fastqc
+%GC	63	WUB_VN12_R2_rmphix_fastqc

@@ -1,0 +1,252 @@
+```{r}
+source("../../General/general_functions.R")
+library(RColorBrewer)
+library(tidyverse)
+```
+
+```{r}
+otu <- readRDS("../Data/covm_tmean75.RDS")
+map <- readRDS("../Data/map.RDS")
+
+otu.norm <- otu %>% rel_ab() %>% log_norm()
+```
+
+
+```{r}
+dist <- beta_div_dist(otu.norm)
+```
+
+```{r}
+pcoa.axes <- pcoa_axes(dist, map)
+pcoa.eig <- pcoa_eigval(dist, map)
+
+pcoa.axes %>% 
+  ggplot(aes(Axis.1, Axis.2, color = Profile)) +
+  geom_point(size = 2, alpha = 0.8) +
+  xlab(paste("PCo1 (", pcoa.eig$Eigval[1], "%)", sep = "")) +
+  ylab(paste("PCo2 (", pcoa.eig$Eigval[2], "%)", sep = "")) +
+  scale_color_brewer(palette = "Set2") +
+  theme_bw() +
+  theme(text = element_text(size = 15))
+```
+
+```{r}
+v.map <- filter(map, Profile != "TotalMG")
+t.map <- filter(map, Profile == "TotalMG")
+
+v.otu <- otu[,colnames(otu) %in% v.map$SampleID]
+t.otu <- otu[,colnames(otu) %in% t.map$SampleID]
+
+v.otu.norm <- v.otu %>% rel_ab() %>% log_norm()
+t.otu.norm <- t.otu %>% rel_ab() %>% log_norm()
+
+v.dist <- beta_div_dist(v.otu.norm)
+t.dist <- beta_div_dist(t.otu.norm)
+```
+
+
+```{r}
+v.pcoa.axes <- pcoa_axes(v.dist, v.map)
+v.pcoa.eig <- pcoa_eigval(v.dist, v.map)
+
+v.pcoa.axes %>% 
+  ggplot(aes(Axis.1, Axis.2, color = Soil)) +
+  geom_point(size = 3, alpha = 1) +
+  xlab(paste("PCo1 (", pcoa.eig$Eigval[1], "%)", sep = "")) +
+  ylab(paste("PCo2 (", pcoa.eig$Eigval[2], "%)", sep = "")) +
+  #scale_color_brewer(palette = "Dark2") +
+  scale_color_manual(values = brewer.pal(8, "Dark2")[c(6,5)],
+                     labels = c("Jepson B", "Jepson T")) +
+  theme_bw() +
+  theme(text = element_text(size = 15))
+
+v.pcoa.axes %>% 
+  ggplot(aes(Axis.1, Axis.2, color = as.factor(Time))) +
+  geom_point(size = 2, alpha = 0.8) +
+  xlab(paste("PCo1 (", pcoa.eig$Eigval[1], "%)", sep = "")) +
+  ylab(paste("PCo2 (", pcoa.eig$Eigval[2], "%)", sep = "")) +
+  scale_color_viridis_d() +
+  theme_bw() +
+  theme(text = element_text(size = 15))
+```
+
+```{r}
+jpb.map <- v.map %>% filter(Soil == "JepsonBot")
+jpb.otu <- v.otu.norm[,colnames(v.otu.norm %in% jpb.map$SampleID)]
+jpb.dist <- v.dist[rownames(v.dist) %in% jpb.map$SampleID, colnames(v.dist) %in% jpb.map$SampleID]
+jpb.pcoa.axes <- pcoa_axes(jpb.dist, jpb.map)
+jpb.pcoa.eig <- pcoa_eigval(jpb.dist, jpb.map)
+
+jpb.pcoa.axes %>% 
+  ggplot(aes(Axis.1, Axis.2, fill = as.factor(Time), shape = Status)) +
+  geom_point(size = 3) +
+  #scale_fill_viridis_d(name = "Timpoint\n(hrs. after wetup)") +
+  scale_fill_manual(name = "Timpoint\n(hrs. after wetup)",
+                    values = c(brewer.pal(9, "Reds")[9], brewer.pal(9, "Blues")[c(9,7,5,3,2,1)])) +
+  scale_shape_manual(values = c(24,21)) +
+  guides(fill = guide_legend(override.aes = list(shape = 21)),
+            shape = guide_legend(override.aes = list(fill = "black"))) +
+  xlab(paste("PCo1 (", jpb.pcoa.eig$Eigval[1], "%)", sep = "")) +
+  ylab(paste("PCo2 (", jpb.pcoa.eig$Eigval[2], "%)", sep = "")) +
+  ggtitle("Jepson Bottom") +
+  theme_bw()
+```
+
+```{r}
+jpt.map <- v.map %>% filter(Soil == "JepsonTop")
+jpt.otu <- v.otu.norm[,colnames(v.otu.norm %in% jpt.map$SampleID)]
+jpt.dist <- v.dist[rownames(v.dist) %in% jpt.map$SampleID, colnames(v.dist) %in% jpt.map$SampleID]
+jpt.pcoa.axes <- pcoa_axes(jpt.dist, jpt.map)
+jpt.pcoa.eig <- pcoa_eigval(jpt.dist, jpt.map)
+
+jpt.pcoa.axes %>% 
+  ggplot(aes(Axis.1, Axis.2, fill = as.factor(Time), shape = Status)) +
+  geom_point(size = 3) +
+  scale_fill_viridis_d(name = "Timpoint\n(hrs. after wetup)") +
+  scale_shape_manual(values = c(24,21)) +
+  guides(fill = guide_legend(override.aes = list(shape = 21)),
+            shape = guide_legend(override.aes = list(fill = "black"))) +
+  xlab(paste("PCo1 (", jpt.pcoa.eig$Eigval[1], "%)", sep = "")) +
+  ylab(paste("PCo2 (", jpt.pcoa.eig$Eigval[2], "%)", sep = "")) +
+  ggtitle("Jepson Top") +
+  theme_bw()
+```
+```{r}
+ctrl.ids <- filter(v.map, Time == "240" & Status == "Dry")$SampleID
+
+
+dist.to.zero <- v.dist %>% 
+  as.data.frame() %>% 
+  mutate(SampleID.x = rownames(.)) %>% 
+  gather(key = "SampleID.y", value = "Distance", -SampleID.x) %>% 
+  inner_join(map, by = c("SampleID.x" = "SampleID")) %>% 
+  inner_join(map, by = c("SampleID.y" = "SampleID")) %>% 
+  filter(Distance > 0) %>% 
+  filter(Soil.x == Soil.y) %>% 
+  filter(Time.x == 0 | Time.y == 0) %>% 
+  filter(!SampleID.x %in% ctrl.ids & !SampleID.y %in% ctrl.ids) %>% 
+  mutate(TemporalDistance = abs(Time.x - Time.y)) 
+
+means.dist.to.zero <- dist.to.zero %>% 
+  group_by(Soil.x, TemporalDistance) %>% 
+  summarise(MeanDistance = mean(Distance))
+
+dist.to.zero %>% 
+  ggplot(aes(TemporalDistance, Distance, color = Soil.x)) +
+  geom_point() +
+  geom_line(data = means.dist.to.zero, aes(y = MeanDistance)) +
+  scale_color_brewer(palette = "Set2") +
+  facet_wrap(. ~ Soil.x, scales = "free", nrow = 1) +
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "none")
+```
+```{r}
+pair.dist <- v.dist %>% 
+  as.data.frame() %>% 
+  mutate(SampleID.x = rownames(.)) %>% 
+  gather(key = "SampleID.y", value = "Distance", -SampleID.x) %>% 
+  inner_join(map, by = c("SampleID.x" = "SampleID")) %>% 
+  inner_join(map, by = c("SampleID.y" = "SampleID")) %>% 
+  filter(Distance > 0) %>% 
+  filter(Soil.x == Soil.y) %>% 
+  filter(!SampleID.x %in% ctrl.ids & !SampleID.y %in% ctrl.ids) %>% 
+  group_by(Soil.x, Time.x, Time.y) %>% 
+  summarise(MeanDist = mean(Distance)) 
+
+pair.dist %>% 
+  ggplot(aes(as.factor(Time.x), as.factor(Time.y), fill = MeanDist)) +
+  geom_tile() +
+  scale_fill_viridis_c(name = "Mean B-C\ndissimilarity",option = "B") +
+  facet_wrap(. ~ Soil.x, scales = "free") +
+  xlab("Timepoint") +
+  ylab("Timepoint") +
+  theme_bw() +
+  theme(text = element_text(size = 15))
+
+pair.dist %>% 
+  filter(Time.x != 0 & Time.y != 0) %>% 
+  ggplot(aes(as.factor(Time.x), as.factor(Time.y), fill = MeanDist)) +
+  geom_tile() +
+  scale_fill_viridis_c(name = "Mean B-C\ndissimilarity",option = "B") +
+  facet_wrap(. ~ Soil.x, scales = "free") +
+  xlab("Timepoint") +
+  ylab("Timepoint") +
+  theme_bw() +
+  theme(text = element_text(size = 15))
+```
+
+```{r}
+tidy.otu <- tidy_otu(otu)
+
+tidy.otu %>% 
+  filter(Count > 0) %>% 
+  group_by(SampleID) %>% 
+  dplyr::count() %>% 
+  ungroup() %>% 
+  inner_join(map, by = "SampleID") %>% 
+  filter((Status == "Dry" & Time == 0) | Status == "Wet") %>% 
+  mutate(Soil = fct_recode(Soil,
+                           "Jepson T" = "JepsonTop",
+                           "Jepson B" = "JepsonBot")) %>% 
+  mutate(Profile = fct_recode(Profile,
+                              "Total MG" = "TotalMG",
+                              "Virome +DNase" = "ViromeD",
+                              "Virome -DNase" = "ViromeN")) %>% 
+  ggplot(aes(as.factor(Time), n, fill = Time)) +
+  geom_boxplot() +
+  scale_fill_viridis_c() +
+  xlab("Timepoint (hrs. after wetup)") +
+  ylab("Richness (#vOTUs)") +
+  facet_grid(Profile ~ Soil, scales = "free") +
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "none")
+
+tidy.otu %>% 
+  filter(Count > 0) %>% 
+  group_by(SampleID) %>% 
+  dplyr::count() %>% 
+  ungroup() %>% 
+  inner_join(map, by = "SampleID") %>% 
+  filter((Status == "Dry" & Time == 0) | Status == "Wet") %>% 
+  #filter(Profile == "ViromeD") %>% 
+  filter(Profile != "TotalMG") %>% 
+  filter(Soil == "JepsonBot") %>% 
+  ggplot(aes(as.factor(Time), n,)) +
+  geom_boxplot(size = 1) +
+  #scale_fill_viridis_c() +
+  xlab("Timepoint (hrs. after wetup)") +
+  ylab("Richness (#vOTUs)") +
+  #facet_grid(Profile ~ Soil, scales = "free") +
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "none")
+```
+
+```{r}
+metadata <- readRDS("../Data/metadata.RDS")
+
+metadata
+
+metadata %>% 
+  inner_join(map, by = "SampleID") %>% 
+  filter((Status == "Dry" & Time == 0) | Status == "Wet") %>% 
+  mutate(Soil = fct_recode(Soil,
+                           "Jepson T" = "JepsonTop",
+                           "Jepson B" = "JepsonBot")) %>% 
+  mutate(Profile = fct_recode(Profile,
+                              "Total MG" = "TotalMG",
+                              "Virome +DNase" = "ViromeD",
+                              "Virome -DNase" = "ViromeN")) %>% 
+  ggplot(aes(as.factor(Time), PercentMapped, fill = Time)) +
+  geom_boxplot() +
+  scale_fill_viridis_c() +
+  xlab("Timepoint (hrs. after wetup)") +
+  ylab("% Mapped reads") +
+  facet_grid(Profile ~ Soil, scales = "free") +
+  theme_bw() +
+  theme(text = element_text(size = 15),
+        legend.position = "none")
+```
+

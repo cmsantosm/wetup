@@ -1,0 +1,25 @@
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+map <- read.table("../Data/map.tsv", header = T)
+
+total.reads <- read.table("../Data/seqdepth.tsv", header = T, sep = "\t")
+mapped.reads <- read.table("../Data/mapped_reads.tsv", header = T, sep = "\t")
+rrna <- read.table("../Data/rrna_stats.tsv", header = T, sep = "\t")
+vibrant <- read.table("../Data/vibrant_stats.tsv", header = T, sep = "\t")
+megahit <- read.table("../Data/contigs_stats.tsv", header = T, sep = "\t")
+
+
+metadata <- inner_join(total.reads, mapped.reads, by = "SampleID") %>% 
+  inner_join(megahit, by = "SampleID") %>% 
+  inner_join(vibrant, by = "SampleID") %>% 
+  inner_join(rrna, by = "SampleID") %>% 
+  mutate(PercentMapped = MappedReads/rmphix * 100)
+
+saveRDS(map, "../../Analysis/Data/map.RDS")
+saveRDS(metadata, "../../Analysis/Data/metadata.RDS")
+```
+
